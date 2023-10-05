@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1691955223859,"sparkVersion":"3.3.0","uid":"StringIndexer_92565008d9f6","paramMap":{"outputCol":"opptAbbr_indexed","inputCol":"opptAbbr"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_92565008d9f6__output"}}

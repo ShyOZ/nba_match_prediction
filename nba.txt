@@ -1,0 +1,5488 @@
+match 21100066: PHX vs GSW
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    26 - 18
+    total predicted scores: 103 - 88
+    predicted winner:       PHX
+match 21100067: BOS vs WAS
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    23 - 22
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 95 - 91
+    predicted winner:       BOS
+match 21100068: BKN vs IND
+    Q1 predicted scores:    23 - 27
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    23 - 29
+    Q4 predicted scores:    24 - 27
+    total predicted scores: 95 - 111
+    predicted winner:       IND
+match 21100085: NYK vs CHA
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    27 - 30
+    Q3 predicted scores:    27 - 30
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 106 - 116
+    predicted winner:       CHA
+match 21100090: DAL vs PHX
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    22 - 17
+    total predicted scores: 95 - 86
+    predicted winner:       DAL
+match 21100091: SAS vs GSW
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    28 - 21
+    total predicted scores: 105 - 90
+    predicted winner:       SAS
+match 21100101: CHA vs ATL
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    22 - 24
+    Q3 predicted scores:    22 - 24
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 88 - 95
+    predicted winner:       ATL
+match 21100132: PHI vs SAC
+    Q1 predicted scores:    29 - 21
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    30 - 20
+    Q4 predicted scores:    27 - 19
+    total predicted scores: 116 - 83
+    predicted winner:       PHI
+match 21100133: WAS vs TOR
+    Q1 predicted scores:    22 - 20
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    22 - 18
+    Q4 predicted scores:    21 - 18
+    total predicted scores: 89 - 75
+    predicted winner:       WAS
+match 21100137: MEM vs OKC
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    24 - 25
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 92 - 98
+    predicted winner:       OKC
+match 21100145: NYK vs PHI
+    Q1 predicted scores:    21 - 18
+    Q2 predicted scores:    21 - 20
+    Q3 predicted scores:    20 - 20
+    Q4 predicted scores:    21 - 19
+    total predicted scores: 83 - 77
+    predicted winner:       NYK
+match 21100156: MEM vs NYK
+    Q1 predicted scores:    24 - 20
+    Q2 predicted scores:    23 - 21
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 95 - 85
+    predicted winner:       MEM
+match 21100157: PHX vs CLE
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    23 - 25
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 92 - 100
+    predicted winner:       CLE
+match 21100158: GSW vs ORL
+    Q1 predicted scores:    25 - 29
+    Q2 predicted scores:    27 - 30
+    Q3 predicted scores:    25 - 28
+    Q4 predicted scores:    28 - 30
+    total predicted scores: 105 - 117
+    predicted winner:       ORL
+match 21100162: BOS vs CHI
+    Q1 predicted scores:    20 - 25
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    19 - 23
+    Q4 predicted scores:    19 - 22
+    total predicted scores: 81 - 93
+    predicted winner:       CHI
+match 21100207: NYK vs PHX
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    20 - 24
+    Q3 predicted scores:    21 - 22
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 86 - 94
+    predicted winner:       PHX
+match 21100215: UTA vs DAL
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 91 - 93
+    predicted winner:       DAL
+match 21100216: TOR vs POR
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    20 - 24
+    Q3 predicted scores:    21 - 21
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 83 - 89
+    predicted winner:       POR
+match 21100248: MIN vs HOU
+    Q1 predicted scores:    22 - 26
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    21 - 27
+    Q4 predicted scores:    21 - 28
+    total predicted scores: 87 - 105
+    predicted winner:       HOU
+match 21100249: DAL vs PHX
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    25 - 19
+    Q3 predicted scores:    22 - 22
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 92 - 83
+    predicted winner:       DAL
+match 21100263: OKC vs NOP
+    Q1 predicted scores:    25 - 22
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 99 - 92
+    predicted winner:       OKC
+match 21100290: PHX vs MEM
+    Q1 predicted scores:    19 - 23
+    Q2 predicted scores:    20 - 22
+    Q3 predicted scores:    21 - 22
+    Q4 predicted scores:    21 - 18
+    total predicted scores: 81 - 85
+    predicted winner:       MEM
+match 21100299: PHI vs ORL
+    Q1 predicted scores:    22 - 19
+    Q2 predicted scores:    20 - 18
+    Q3 predicted scores:    18 - 16
+    Q4 predicted scores:    17 - 18
+    total predicted scores: 77 - 71
+    predicted winner:       PHI
+match 21100303: MEM vs SAS
+    Q1 predicted scores:    19 - 22
+    Q2 predicted scores:    18 - 19
+    Q3 predicted scores:    20 - 20
+    Q4 predicted scores:    19 - 17
+    total predicted scores: 76 - 78
+    predicted winner:       SAS
+match 21100366: POR vs OKC
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    23 - 23
+    Q4 predicted scores:    23 - 25
+    total predicted scores: 94 - 100
+    predicted winner:       OKC
+match 21100371: MIN vs SAC
+    Q1 predicted scores:    25 - 19
+    Q2 predicted scores:    20 - 21
+    Q3 predicted scores:    21 - 20
+    Q4 predicted scores:    20 - 19
+    total predicted scores: 86 - 79
+    predicted winner:       MIN
+match 21100378: BKN vs DET
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 96 - 102
+    predicted winner:       DET
+match 21100385: DEN vs GSW
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    27 - 26
+    total predicted scores: 101 - 108
+    predicted winner:       GSW
+match 21100386: PHX vs HOU
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    21 - 28
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    16 - 27
+    total predicted scores: 87 - 102
+    predicted winner:       HOU
+match 21100389: PHI vs LAC
+    Q1 predicted scores:    21 - 20
+    Q2 predicted scores:    18 - 21
+    Q3 predicted scores:    19 - 21
+    Q4 predicted scores:    19 - 21
+    total predicted scores: 77 - 83
+    predicted winner:       LAC
+match 21100396: MEM vs IND
+    Q1 predicted scores:    23 - 22
+    Q2 predicted scores:    23 - 20
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 91 - 90
+    predicted winner:       MEM
+match 21100400: CHA vs LAC
+    Q1 predicted scores:    19 - 30
+    Q2 predicted scores:    22 - 28
+    Q3 predicted scores:    22 - 30
+    Q4 predicted scores:    26 - 27
+    total predicted scores: 89 - 115
+    predicted winner:       LAC
+match 21100412: GSW vs HOU
+    Q1 predicted scores:    26 - 26
+    Q2 predicted scores:    28 - 20
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    28 - 23
+    total predicted scores: 108 - 93
+    predicted winner:       GSW
+match 21100415: ORL vs MIN
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 101 - 91
+    predicted winner:       ORL
+match 21100424: MEM vs HOU
+    Q1 predicted scores:    21 - 19
+    Q2 predicted scores:    25 - 20
+    Q3 predicted scores:    22 - 21
+    Q4 predicted scores:    24 - 22
+    total predicted scores: 92 - 82
+    predicted winner:       MEM
+match 21100425: OKC vs UTA
+    Q1 predicted scores:    29 - 20
+    Q2 predicted scores:    30 - 19
+    Q3 predicted scores:    29 - 23
+    Q4 predicted scores:    29 - 18
+    total predicted scores: 117 - 80
+    predicted winner:       OKC
+match 21100450: NYK vs NOP
+    Q1 predicted scores:    20 - 23
+    Q2 predicted scores:    21 - 19
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 83 - 87
+    predicted winner:       NOP
+match 21100455: LAL vs PHX
+    Q1 predicted scores:    30 - 26
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    29 - 26
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 110 - 99
+    predicted winner:       LAL
+match 21100485: POR vs SAS
+    Q1 predicted scores:    31 - 22
+    Q2 predicted scores:    31 - 21
+    Q3 predicted scores:    32 - 23
+    Q4 predicted scores:    30 - 23
+    total predicted scores: 124 - 89
+    predicted winner:       POR
+match 21100489: CLE vs NOP
+    Q1 predicted scores:    19 - 22
+    Q2 predicted scores:    23 - 21
+    Q3 predicted scores:    19 - 23
+    Q4 predicted scores:    23 - 19
+    total predicted scores: 84 - 85
+    predicted winner:       NOP
+match 21100499: MIA vs NYK
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    25 - 21
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 101 - 89
+    predicted winner:       MIA
+match 21100506: CHI vs NOP
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    23 - 25
+    Q3 predicted scores:    27 - 23
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 100 - 94
+    predicted winner:       CHI
+match 21100510: SAC vs UTA
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 97 - 95
+    predicted winner:       SAC
+match 21100528: TOR vs MEM
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 94 - 101
+    predicted winner:       MEM
+match 21100530: ATL vs MIL
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    25 - 21
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 95 - 91
+    predicted winner:       ATL
+match 21100533: NOP vs DAL
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    24 - 23
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 98 - 92
+    predicted winner:       NOP
+match 21100534: HOU vs DEN
+    Q1 predicted scores:    24 - 30
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    24 - 30
+    Q4 predicted scores:    25 - 29
+    total predicted scores: 98 - 117
+    predicted winner:       DEN
+match 21100540: ATL vs OKC
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    23 - 23
+    Q4 predicted scores:    24 - 22
+    total predicted scores: 94 - 87
+    predicted winner:       ATL
+match 21100543: NOP vs IND
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    20 - 27
+    Q3 predicted scores:    20 - 26
+    Q4 predicted scores:    21 - 24
+    total predicted scores: 82 - 102
+    predicted winner:       IND
+match 21100544: DAL vs UTA
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    26 - 29
+    total predicted scores: 104 - 98
+    predicted winner:       DAL
+match 21100553: SAS vs DEN
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    23 - 23
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 97 - 96
+    predicted winner:       SAS
+match 21100557: CHI vs IND
+    Q1 predicted scores:    25 - 19
+    Q2 predicted scores:    22 - 19
+    Q3 predicted scores:    24 - 17
+    Q4 predicted scores:    20 - 18
+    total predicted scores: 91 - 73
+    predicted winner:       CHI
+match 21100567: DET vs LAL
+    Q1 predicted scores:    19 - 23
+    Q2 predicted scores:    23 - 21
+    Q3 predicted scores:    18 - 20
+    Q4 predicted scores:    21 - 16
+    total predicted scores: 81 - 80
+    predicted winner:       DET
+match 21100585: CHA vs BKN
+    Q1 predicted scores:    19 - 19
+    Q2 predicted scores:    18 - 21
+    Q3 predicted scores:    18 - 17
+    Q4 predicted scores:    19 - 18
+    total predicted scores: 74 - 75
+    predicted winner:       BKN
+match 21100605: TOR vs MIL
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    24 - 28
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    22 - 27
+    total predicted scores: 93 - 106
+    predicted winner:       MIL
+match 21100634: SAC vs DET
+    Q1 predicted scores:    27 - 31
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    27 - 31
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 108 - 120
+    predicted winner:       DET
+match 21100643: PHI vs MIA
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    20 - 22
+    Q3 predicted scores:    19 - 23
+    Q4 predicted scores:    18 - 22
+    total predicted scores: 80 - 92
+    predicted winner:       MIA
+match 21100652: LAL vs MIN
+    Q1 predicted scores:    26 - 20
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 98 - 89
+    predicted winner:       LAL
+match 21100665: SAC vs MIN
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    28 - 24
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    28 - 23
+    total predicted scores: 109 - 96
+    predicted winner:       SAC
+match 21100683: TOR vs CHI
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    18 - 24
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    18 - 23
+    total predicted scores: 80 - 95
+    predicted winner:       CHI
+match 21100702: IND vs PHX
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    26 - 27
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    25 - 26
+    total predicted scores: 101 - 106
+    predicted winner:       PHX
+match 21100715: NOP vs SAS
+    Q1 predicted scores:    21 - 20
+    Q2 predicted scores:    22 - 23
+    Q3 predicted scores:    20 - 22
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 84 - 87
+    predicted winner:       SAS
+match 21100721: BOS vs WAS
+    Q1 predicted scores:    24 - 19
+    Q2 predicted scores:    22 - 20
+    Q3 predicted scores:    21 - 18
+    Q4 predicted scores:    21 - 20
+    total predicted scores: 88 - 77
+    predicted winner:       BOS
+match 21100724: OKC vs MIA
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    25 - 21
+    total predicted scores: 102 - 89
+    predicted winner:       OKC
+match 21100741: POR vs OKC
+    Q1 predicted scores:    21 - 27
+    Q2 predicted scores:    23 - 28
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 90 - 103
+    predicted winner:       OKC
+match 21100744: NYK vs ORL
+    Q1 predicted scores:    26 - 22
+    Q2 predicted scores:    26 - 20
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    22 - 21
+    total predicted scores: 101 - 85
+    predicted winner:       NYK
+match 21100755: POR vs NOP
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    27 - 25
+    total predicted scores: 104 - 93
+    predicted winner:       POR
+match 21100759: CHA vs DEN
+    Q1 predicted scores:    22 - 26
+    Q2 predicted scores:    21 - 25
+    Q3 predicted scores:    22 - 25
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 87 - 99
+    predicted winner:       DEN
+match 21100764: HOU vs MEM
+    Q1 predicted scores:    24 - 20
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    20 - 24
+    total predicted scores: 93 - 88
+    predicted winner:       HOU
+match 21100781: HOU vs IND
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    20 - 24
+    total predicted scores: 90 - 99
+    predicted winner:       IND
+match 21100785: WAS vs MIL
+    Q1 predicted scores:    21 - 27
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    24 - 27
+    Q4 predicted scores:    24 - 29
+    total predicted scores: 94 - 111
+    predicted winner:       MIL
+match 21100797: SAC vs PHX
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    24 - 27
+    Q4 predicted scores:    26 - 26
+    total predicted scores: 99 - 107
+    predicted winner:       PHX
+match 21100810: LAC vs LAL
+    Q1 predicted scores:    26 - 30
+    Q2 predicted scores:    27 - 28
+    Q3 predicted scores:    25 - 29
+    Q4 predicted scores:    26 - 30
+    total predicted scores: 104 - 117
+    predicted winner:       LAL
+match 21100811: ORL vs NYK
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    22 - 25
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    17 - 24
+    total predicted scores: 80 - 97
+    predicted winner:       NYK
+match 21100817: BKN vs WAS
+    Q1 predicted scores:    30 - 22
+    Q2 predicted scores:    28 - 25
+    Q3 predicted scores:    27 - 24
+    Q4 predicted scores:    23 - 27
+    total predicted scores: 108 - 98
+    predicted winner:       BKN
+match 21100823: DEN vs PHX
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    29 - 25
+    total predicted scores: 104 - 99
+    predicted winner:       DEN
+match 21100827: IND vs BOS
+    Q1 predicted scores:    20 - 24
+    Q2 predicted scores:    19 - 20
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    17 - 21
+    total predicted scores: 76 - 88
+    predicted winner:       BOS
+match 21100834: GSW vs DEN
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    30 - 25
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 106 - 97
+    predicted winner:       GSW
+match 21100845: MIL vs OKC
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    21 - 29
+    Q3 predicted scores:    22 - 29
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 92 - 107
+    predicted winner:       OKC
+match 21100865: OKC vs LAC
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 97 - 95
+    predicted winner:       OKC
+match 21100878: NYK vs WAS
+    Q1 predicted scores:    25 - 19
+    Q2 predicted scores:    27 - 19
+    Q3 predicted scores:    24 - 18
+    Q4 predicted scores:    25 - 19
+    total predicted scores: 101 - 75
+    predicted winner:       NYK
+match 21100883: OKC vs SAC
+    Q1 predicted scores:    29 - 20
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    30 - 21
+    Q4 predicted scores:    28 - 18
+    total predicted scores: 117 - 82
+    predicted winner:       OKC
+match 21100889: MEM vs UTA
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 100 - 98
+    predicted winner:       MEM
+match 21100899: SAC vs POR
+    Q1 predicted scores:    26 - 26
+    Q2 predicted scores:    24 - 25
+    Q3 predicted scores:    27 - 24
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 101 - 98
+    predicted winner:       SAC
+match 21100916: MIN vs MEM
+    Q1 predicted scores:    22 - 26
+    Q2 predicted scores:    22 - 23
+    Q3 predicted scores:    19 - 24
+    Q4 predicted scores:    18 - 21
+    total predicted scores: 81 - 94
+    predicted winner:       MEM
+match 21100923: MIA vs TOR
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    25 - 19
+    Q3 predicted scores:    25 - 16
+    Q4 predicted scores:    23 - 15
+    total predicted scores: 99 - 69
+    predicted winner:       MIA
+match 21100945: MIA vs WAS
+    Q1 predicted scores:    20 - 20
+    Q2 predicted scores:    19 - 22
+    Q3 predicted scores:    19 - 21
+    Q4 predicted scores:    19 - 22
+    total predicted scores: 77 - 85
+    predicted winner:       WAS
+match 21100970: GSW vs NOP
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    19 - 19
+    Q3 predicted scores:    20 - 21
+    Q4 predicted scores:    18 - 21
+    total predicted scores: 77 - 83
+    predicted winner:       NOP
+match 21100973: IND vs CHI
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    22 - 22
+    Q3 predicted scores:    19 - 23
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 87 - 92
+    predicted winner:       CHI
+match 21100978: DET vs PHI
+    Q1 predicted scores:    28 - 20
+    Q2 predicted scores:    30 - 22
+    Q3 predicted scores:    29 - 23
+    Q4 predicted scores:    24 - 20
+    total predicted scores: 111 - 85
+    predicted winner:       DET
+match 21200009: UTA vs DAL
+    Q1 predicted scores:    29 - 23
+    Q2 predicted scores:    30 - 20
+    Q3 predicted scores:    30 - 23
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 117 - 88
+    predicted winner:       UTA
+match 21200014: SAS vs OKC
+    Q1 predicted scores:    23 - 22
+    Q2 predicted scores:    21 - 20
+    Q3 predicted scores:    20 - 20
+    Q4 predicted scores:    19 - 22
+    total predicted scores: 83 - 84
+    predicted winner:       OKC
+match 21200025: LAL vs LAC
+    Q1 predicted scores:    22 - 26
+    Q2 predicted scores:    24 - 25
+    Q3 predicted scores:    23 - 27
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 93 - 103
+    predicted winner:       LAC
+match 21200026: GSW vs MEM
+    Q1 predicted scores:    22 - 25
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    21 - 26
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 91 - 103
+    predicted winner:       MEM
+match 21200030: MIA vs DEN
+    Q1 predicted scores:    31 - 27
+    Q2 predicted scores:    29 - 27
+    Q3 predicted scores:    30 - 25
+    Q4 predicted scores:    30 - 30
+    total predicted scores: 120 - 109
+    predicted winner:       MIA
+match 21200041: LAL vs DET
+    Q1 predicted scores:    30 - 19
+    Q2 predicted scores:    27 - 21
+    Q3 predicted scores:    29 - 17
+    Q4 predicted scores:    25 - 19
+    total predicted scores: 111 - 76
+    predicted winner:       LAL
+match 21200046: DAL vs POR
+    Q1 predicted scores:    30 - 21
+    Q2 predicted scores:    29 - 23
+    Q3 predicted scores:    29 - 23
+    Q4 predicted scores:    28 - 17
+    total predicted scores: 116 - 84
+    predicted winner:       DAL
+match 21200073: MEM vs HOU
+    Q1 predicted scores:    22 - 23
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    22 - 20
+    Q4 predicted scores:    23 - 17
+    total predicted scores: 91 - 79
+    predicted winner:       MEM
+match 21200091: LAC vs ATL
+    Q1 predicted scores:    22 - 23
+    Q2 predicted scores:    23 - 19
+    Q3 predicted scores:    22 - 20
+    Q4 predicted scores:    22 - 18
+    total predicted scores: 89 - 80
+    predicted winner:       LAC
+match 21200095: TOR vs UTA
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    26 - 28
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 101 - 104
+    predicted winner:       UTA
+match 21200098: CHI vs BOS
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 93 - 99
+    predicted winner:       BOS
+match 21200125: NOP vs OKC
+    Q1 predicted scores:    24 - 31
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    22 - 28
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 96 - 112
+    predicted winner:       OKC
+match 21200134: CHA vs MEM
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    21 - 20
+    Q3 predicted scores:    21 - 23
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 84 - 87
+    predicted winner:       MEM
+match 21200138: PHX vs MIA
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    22 - 22
+    Q3 predicted scores:    20 - 25
+    Q4 predicted scores:    19 - 22
+    total predicted scores: 82 - 93
+    predicted winner:       MIA
+match 21200152: SAS vs LAC
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    20 - 23
+    Q3 predicted scores:    21 - 25
+    Q4 predicted scores:    20 - 22
+    total predicted scores: 81 - 92
+    predicted winner:       LAC
+match 21200164: OKC vs LAC
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 26
+    total predicted scores: 102 - 102
+    predicted winner:       OKC
+match 21200169: SAC vs LAL
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    27 - 21
+    Q3 predicted scores:    27 - 24
+    Q4 predicted scores:    29 - 25
+    total predicted scores: 110 - 93
+    predicted winner:       SAC
+match 21200178: HOU vs NYK
+    Q1 predicted scores:    32 - 25
+    Q2 predicted scores:    31 - 24
+    Q3 predicted scores:    32 - 24
+    Q4 predicted scores:    30 - 25
+    total predicted scores: 125 - 98
+    predicted winner:       HOU
+match 21200180: UTA vs SAC
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 104 - 98
+    predicted winner:       UTA
+match 21200185: ATL vs LAC
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    24 - 21
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    23 - 25
+    total predicted scores: 98 - 91
+    predicted winner:       ATL
+match 21200189: SAC vs UTA
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    27 - 23
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 102 - 94
+    predicted winner:       SAC
+match 21200193: BKN vs POR
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    25 - 20
+    total predicted scores: 100 - 85
+    predicted winner:       BKN
+match 21200202: UTA vs DEN
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    24 - 25
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 99 - 99
+    predicted winner:       UTA
+match 21200211: BOS vs BKN
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    20 - 24
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    20 - 23
+    total predicted scores: 81 - 95
+    predicted winner:       BKN
+match 21200213: DET vs PHX
+    Q1 predicted scores:    30 - 19
+    Q2 predicted scores:    30 - 19
+    Q3 predicted scores:    29 - 19
+    Q4 predicted scores:    29 - 18
+    total predicted scores: 118 - 75
+    predicted winner:       DET
+match 21200224: ORL vs BKN
+    Q1 predicted scores:    20 - 27
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    22 - 25
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 87 - 97
+    predicted winner:       BKN
+match 21200232: LAL vs DEN
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    30 - 25
+    Q3 predicted scores:    30 - 25
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 118 - 95
+    predicted winner:       LAL
+match 21200239: SAS vs MEM
+    Q1 predicted scores:    23 - 21
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    19 - 23
+    Q4 predicted scores:    24 - 16
+    total predicted scores: 90 - 82
+    predicted winner:       SAS
+match 21200241: LAC vs SAC
+    Q1 predicted scores:    28 - 22
+    Q2 predicted scores:    30 - 20
+    Q3 predicted scores:    29 - 20
+    Q4 predicted scores:    28 - 17
+    total predicted scores: 115 - 79
+    predicted winner:       LAC
+match 21200242: GSW vs IND
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    27 - 22
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 99 - 92
+    predicted winner:       GSW
+match 21200259: BOS vs MIN
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 99 - 92
+    predicted winner:       BOS
+match 21200265: UTA vs ORL
+    Q1 predicted scores:    22 - 24
+    Q2 predicted scores:    24 - 21
+    Q3 predicted scores:    19 - 20
+    Q4 predicted scores:    21 - 18
+    total predicted scores: 86 - 83
+    predicted winner:       UTA
+match 21200281: SAC vs ORL
+    Q1 predicted scores:    24 - 19
+    Q2 predicted scores:    21 - 20
+    Q3 predicted scores:    21 - 18
+    Q4 predicted scores:    25 - 19
+    total predicted scores: 91 - 76
+    predicted winner:       SAC
+match 21200296: PHX vs ORL
+    Q1 predicted scores:    22 - 24
+    Q2 predicted scores:    23 - 26
+    Q3 predicted scores:    21 - 23
+    Q4 predicted scores:    21 - 26
+    total predicted scores: 87 - 99
+    predicted winner:       ORL
+match 21200315: BOS vs DAL
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    24 - 25
+    Q4 predicted scores:    23 - 21
+    total predicted scores: 95 - 94
+    predicted winner:       BOS
+match 21200331: NOP vs MIN
+    Q1 predicted scores:    24 - 30
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    25 - 29
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 99 - 115
+    predicted winner:       MIN
+match 21200333: OKC vs SAC
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    30 - 25
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 26
+    total predicted scores: 108 - 98
+    predicted winner:       OKC
+match 21200346: TOR vs HOU
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    29 - 20
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 109 - 87
+    predicted winner:       TOR
+match 21200350: ORL vs MIN
+    Q1 predicted scores:    25 - 21
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    24 - 21
+    total predicted scores: 98 - 91
+    predicted winner:       ORL
+match 21200361: MIL vs IND
+    Q1 predicted scores:    24 - 22
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 95 - 90
+    predicted winner:       MIL
+match 21200366: TOR vs DET
+    Q1 predicted scores:    27 - 20
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 104 - 92
+    predicted winner:       TOR
+match 21200370: BOS vs CLE
+    Q1 predicted scores:    27 - 19
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 104 - 88
+    predicted winner:       BOS
+match 21200376: LAC vs NOP
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    24 - 17
+    Q4 predicted scores:    20 - 23
+    total predicted scores: 94 - 78
+    predicted winner:       LAC
+match 21200400: NYK vs MIN
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    23 - 23
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 94 - 92
+    predicted winner:       NYK
+match 21200444: MIN vs PHX
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    26 - 28
+    Q4 predicted scores:    28 - 25
+    total predicted scores: 108 - 108
+    predicted winner:       MIN
+match 21200447: GSW vs BOS
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    26 - 20
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    24 - 22
+    total predicted scores: 101 - 81
+    predicted winner:       GSW
+match 21200456: OKC vs PHX
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    28 - 25
+    Q3 predicted scores:    29 - 21
+    Q4 predicted scores:    27 - 22
+    total predicted scores: 114 - 91
+    predicted winner:       OKC
+match 21200466: CLE vs SAC
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 91 - 96
+    predicted winner:       SAC
+match 21200469: MIA vs DAL
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 104 - 99
+    predicted winner:       MIA
+match 21200482: DET vs ATL
+    Q1 predicted scores:    23 - 22
+    Q2 predicted scores:    22 - 20
+    Q3 predicted scores:    20 - 20
+    Q4 predicted scores:    18 - 18
+    total predicted scores: 83 - 80
+    predicted winner:       DET
+match 21200487: PHX vs UTA
+    Q1 predicted scores:    20 - 20
+    Q2 predicted scores:    20 - 21
+    Q3 predicted scores:    19 - 21
+    Q4 predicted scores:    20 - 18
+    total predicted scores: 79 - 80
+    predicted winner:       UTA
+match 21200489: ATL vs BOS
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    22 - 24
+    Q3 predicted scores:    20 - 22
+    Q4 predicted scores:    17 - 24
+    total predicted scores: 80 - 95
+    predicted winner:       BOS
+match 21200491: IND vs MIL
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    25 - 20
+    Q3 predicted scores:    24 - 20
+    Q4 predicted scores:    24 - 16
+    total predicted scores: 96 - 76
+    predicted winner:       IND
+match 21200494: MIN vs POR
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    25 - 25
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 101 - 99
+    predicted winner:       MIN
+match 21200497: DEN vs UTA
+    Q1 predicted scores:    28 - 22
+    Q2 predicted scores:    27 - 21
+    Q3 predicted scores:    27 - 21
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 107 - 87
+    predicted winner:       DEN
+match 21200509: SAC vs MEM
+    Q1 predicted scores:    20 - 29
+    Q2 predicted scores:    19 - 28
+    Q3 predicted scores:    20 - 30
+    Q4 predicted scores:    20 - 27
+    total predicted scores: 79 - 114
+    predicted winner:       MEM
+match 21200515: MIN vs ATL
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 105 - 102
+    predicted winner:       MIN
+match 21200516: TOR vs PHI
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    22 - 19
+    Q3 predicted scores:    25 - 16
+    Q4 predicted scores:    20 - 18
+    total predicted scores: 93 - 72
+    predicted winner:       TOR
+match 21200527: IND vs NYK
+    Q1 predicted scores:    22 - 19
+    Q2 predicted scores:    23 - 18
+    Q3 predicted scores:    18 - 20
+    Q4 predicted scores:    20 - 17
+    total predicted scores: 83 - 74
+    predicted winner:       IND
+match 21200544: PHI vs HOU
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    27 - 23
+    total predicted scores: 107 - 94
+    predicted winner:       PHI
+match 21200548: SAC vs MIA
+    Q1 predicted scores:    24 - 30
+    Q2 predicted scores:    23 - 30
+    Q3 predicted scores:    24 - 30
+    Q4 predicted scores:    26 - 27
+    total predicted scores: 97 - 117
+    predicted winner:       MIA
+match 21200549: NYK vs NOP
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    26 - 21
+    total predicted scores: 102 - 90
+    predicted winner:       NYK
+match 21200555: LAL vs CLE
+    Q1 predicted scores:    30 - 20
+    Q2 predicted scores:    29 - 23
+    Q3 predicted scores:    31 - 25
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 113 - 91
+    predicted winner:       LAL
+match 21200560: DAL vs MIN
+    Q1 predicted scores:    31 - 22
+    Q2 predicted scores:    28 - 26
+    Q3 predicted scores:    28 - 21
+    Q4 predicted scores:    27 - 24
+    total predicted scores: 114 - 93
+    predicted winner:       DAL
+match 21200567: HOU vs LAC
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    26 - 27
+    Q3 predicted scores:    26 - 28
+    Q4 predicted scores:    27 - 26
+    total predicted scores: 103 - 108
+    predicted winner:       LAC
+match 21200576: SAS vs MEM
+    Q1 predicted scores:    26 - 22
+    Q2 predicted scores:    26 - 19
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    24 - 17
+    total predicted scores: 101 - 78
+    predicted winner:       SAS
+match 21200587: IND vs HOU
+    Q1 predicted scores:    26 - 22
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 101 - 92
+    predicted winner:       IND
+match 21200620: CHI vs DET
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    22 - 22
+    Q3 predicted scores:    22 - 20
+    Q4 predicted scores:    21 - 20
+    total predicted scores: 88 - 82
+    predicted winner:       CHI
+match 21200623: MIN vs BKN
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    20 - 23
+    Q3 predicted scores:    20 - 21
+    Q4 predicted scores:    18 - 21
+    total predicted scores: 81 - 88
+    predicted winner:       BKN
+match 21200654: ORL vs DET
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 26
+    total predicted scores: 102 - 104
+    predicted winner:       DET
+match 21200700: MIN vs NOP
+    Q1 predicted scores:    29 - 22
+    Q2 predicted scores:    30 - 20
+    Q3 predicted scores:    30 - 20
+    Q4 predicted scores:    26 - 26
+    total predicted scores: 115 - 88
+    predicted winner:       MIN
+match 21200713: MIN vs POR
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    30 - 24
+    total predicted scores: 101 - 98
+    predicted winner:       MIN
+match 21200715: IND vs ATL
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    28 - 24
+    Q3 predicted scores:    28 - 23
+    Q4 predicted scores:    29 - 27
+    total predicted scores: 112 - 97
+    predicted winner:       IND
+match 21200716: BKN vs LAL
+    Q1 predicted scores:    21 - 22
+    Q2 predicted scores:    19 - 23
+    Q3 predicted scores:    20 - 21
+    Q4 predicted scores:    18 - 22
+    total predicted scores: 78 - 88
+    predicted winner:       LAL
+match 21200719: DEN vs MIL
+    Q1 predicted scores:    27 - 27
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    25 - 25
+    Q4 predicted scores:    28 - 23
+    total predicted scores: 106 - 100
+    predicted winner:       DEN
+match 21200740: CLE vs ORL
+    Q1 predicted scores:    26 - 27
+    Q2 predicted scores:    28 - 25
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    32 - 27
+    total predicted scores: 112 - 106
+    predicted winner:       CLE
+match 21200741: MIA vs LAC
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 104 - 91
+    predicted winner:       MIA
+match 21200742: MEM vs GSW
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 100 - 92
+    predicted winner:       MEM
+match 21200749: MIL vs DET
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 98 - 103
+    predicted winner:       DET
+match 21200766: CHI vs SAS
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 90 - 101
+    predicted winner:       SAS
+match 21200796: SAC vs SAS
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    26 - 29
+    Q3 predicted scores:    24 - 29
+    Q4 predicted scores:    27 - 27
+    total predicted scores: 101 - 112
+    predicted winner:       SAS
+match 21200819: OKC vs MIN
+    Q1 predicted scores:    31 - 26
+    Q2 predicted scores:    31 - 29
+    Q3 predicted scores:    31 - 27
+    Q4 predicted scores:    29 - 29
+    total predicted scores: 122 - 111
+    predicted winner:       OKC
+match 21200825: ORL vs CLE
+    Q1 predicted scores:    25 - 28
+    Q2 predicted scores:    23 - 29
+    Q3 predicted scores:    24 - 29
+    Q4 predicted scores:    25 - 32
+    total predicted scores: 97 - 118
+    predicted winner:       CLE
+match 21200849: PHX vs MIN
+    Q1 predicted scores:    22 - 21
+    Q2 predicted scores:    21 - 18
+    Q3 predicted scores:    18 - 21
+    Q4 predicted scores:    19 - 19
+    total predicted scores: 80 - 79
+    predicted winner:       PHX
+match 21200856: HOU vs MIL
+    Q1 predicted scores:    28 - 27
+    Q2 predicted scores:    26 - 29
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    26 - 29
+    total predicted scores: 106 - 111
+    predicted winner:       MIL
+match 21200857: OKC vs NOP
+    Q1 predicted scores:    28 - 19
+    Q2 predicted scores:    29 - 19
+    Q3 predicted scores:    30 - 16
+    Q4 predicted scores:    28 - 17
+    total predicted scores: 115 - 71
+    predicted winner:       OKC
+match 21200866: ORL vs HOU
+    Q1 predicted scores:    28 - 30
+    Q2 predicted scores:    26 - 30
+    Q3 predicted scores:    26 - 29
+    Q4 predicted scores:    25 - 30
+    total predicted scores: 105 - 119
+    predicted winner:       HOU
+match 21200882: WAS vs PHI
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    19 - 22
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 87 - 87
+    predicted winner:       WAS
+match 21200893: DEN vs ATL
+    Q1 predicted scores:    29 - 21
+    Q2 predicted scores:    29 - 23
+    Q3 predicted scores:    24 - 20
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 107 - 86
+    predicted winner:       DEN
+match 21200895: GSW vs TOR
+    Q1 predicted scores:    32 - 27
+    Q2 predicted scores:    31 - 27
+    Q3 predicted scores:    27 - 28
+    Q4 predicted scores:    30 - 28
+    total predicted scores: 120 - 110
+    predicted winner:       GSW
+match 21200896: PHI vs BOS
+    Q1 predicted scores:    25 - 28
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    25 - 27
+    total predicted scores: 102 - 111
+    predicted winner:       BOS
+match 21200912: GSW vs SAC
+    Q1 predicted scores:    24 - 19
+    Q2 predicted scores:    20 - 24
+    Q3 predicted scores:    21 - 20
+    Q4 predicted scores:    21 - 19
+    total predicted scores: 86 - 82
+    predicted winner:       GSW
+match 21200925: LAL vs TOR
+    Q1 predicted scores:    26 - 27
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 104 - 103
+    predicted winner:       LAL
+match 21200936: TOR vs CLE
+    Q1 predicted scores:    25 - 22
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 100 - 91
+    predicted winner:       TOR
+match 21200938: MIA vs IND
+    Q1 predicted scores:    25 - 22
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 96 - 89
+    predicted winner:       MIA
+match 21200947: GSW vs NYK
+    Q1 predicted scores:    23 - 18
+    Q2 predicted scores:    23 - 18
+    Q3 predicted scores:    23 - 18
+    Q4 predicted scores:    22 - 17
+    total predicted scores: 91 - 71
+    predicted winner:       GSW
+match 21200955: POR vs MEM
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    22 - 28
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    23 - 25
+    total predicted scores: 93 - 103
+    predicted winner:       MEM
+match 21200970: WAS vs NOP
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    25 - 21
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 101 - 88
+    predicted winner:       WAS
+match 21200981: PHI vs IND
+    Q1 predicted scores:    26 - 20
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    25 - 21
+    total predicted scores: 100 - 85
+    predicted winner:       PHI
+match 21200982: SAS vs CLE
+    Q1 predicted scores:    31 - 26
+    Q2 predicted scores:    28 - 28
+    Q3 predicted scores:    31 - 27
+    Q4 predicted scores:    30 - 28
+    total predicted scores: 120 - 109
+    predicted winner:       SAS
+match 21200985: TOR vs MIA
+    Q1 predicted scores:    21 - 27
+    Q2 predicted scores:    22 - 27
+    Q3 predicted scores:    23 - 29
+    Q4 predicted scores:    20 - 26
+    total predicted scores: 86 - 109
+    predicted winner:       MIA
+match 21200986: MIL vs ORL
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    27 - 27
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    27 - 27
+    total predicted scores: 109 - 106
+    predicted winner:       MIL
+match 21200988: HOU vs GSW
+    Q1 predicted scores:    21 - 28
+    Q2 predicted scores:    20 - 29
+    Q3 predicted scores:    20 - 24
+    Q4 predicted scores:    17 - 30
+    total predicted scores: 78 - 111
+    predicted winner:       GSW
+match 21201001: NOP vs GSW
+    Q1 predicted scores:    20 - 25
+    Q2 predicted scores:    20 - 24
+    Q3 predicted scores:    19 - 23
+    Q4 predicted scores:    17 - 22
+    total predicted scores: 76 - 94
+    predicted winner:       GSW
+match 21201009: CLE vs MIA
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 96 - 100
+    predicted winner:       MIA
+match 21201022: TOR vs NYK
+    Q1 predicted scores:    22 - 22
+    Q2 predicted scores:    22 - 24
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    21 - 26
+    total predicted scores: 88 - 96
+    predicted winner:       NYK
+match 21201029: DAL vs BOS
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 103 - 90
+    predicted winner:       DAL
+match 21201031: PHX vs MIN
+    Q1 predicted scores:    21 - 28
+    Q2 predicted scores:    21 - 30
+    Q3 predicted scores:    22 - 28
+    Q4 predicted scores:    19 - 30
+    total predicted scores: 83 - 116
+    predicted winner:       MIN
+match 21201034: NYK vs TOR
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    29 - 22
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    27 - 18
+    total predicted scores: 108 - 86
+    predicted winner:       NYK
+match 21201068: UTA vs PHX
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    29 - 23
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 104 - 89
+    predicted winner:       UTA
+match 21201070: POR vs BKN
+    Q1 predicted scores:    20 - 27
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    23 - 30
+    Q4 predicted scores:    27 - 21
+    total predicted scores: 94 - 104
+    predicted winner:       BKN
+match 21201079: MEM vs HOU
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    25 - 26
+    Q3 predicted scores:    26 - 21
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 99 - 94
+    predicted winner:       MEM
+match 21201081: MIN vs OKC
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 102 - 91
+    predicted winner:       MIN
+match 21201098: SAS vs MIA
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    22 - 24
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    20 - 24
+    total predicted scores: 89 - 95
+    predicted winner:       MIA
+match 21201128: NYK vs MIL
+    Q1 predicted scores:    24 - 22
+    Q2 predicted scores:    24 - 21
+    Q3 predicted scores:    26 - 19
+    Q4 predicted scores:    24 - 17
+    total predicted scores: 98 - 79
+    predicted winner:       NYK
+match 21201135: SAC vs DAL
+    Q1 predicted scores:    25 - 30
+    Q2 predicted scores:    28 - 28
+    Q3 predicted scores:    25 - 28
+    Q4 predicted scores:    29 - 29
+    total predicted scores: 107 - 115
+    predicted winner:       DAL
+match 21201145: OKC vs NYK
+    Q1 predicted scores:    31 - 30
+    Q2 predicted scores:    28 - 29
+    Q3 predicted scores:    31 - 28
+    Q4 predicted scores:    28 - 29
+    total predicted scores: 118 - 116
+    predicted winner:       OKC
+match 21201162: LAL vs NOP
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 102 - 92
+    predicted winner:       LAL
+match 21201165: WAS vs MIA
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    23 - 26
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 97 - 104
+    predicted winner:       MIA
+match 21201184: HOU vs MEM
+    Q1 predicted scores:    19 - 19
+    Q2 predicted scores:    20 - 19
+    Q3 predicted scores:    19 - 18
+    Q4 predicted scores:    19 - 18
+    total predicted scores: 77 - 74
+    predicted winner:       HOU
+match 21201200: HOU vs SAC
+    Q1 predicted scores:    32 - 26
+    Q2 predicted scores:    30 - 24
+    Q3 predicted scores:    30 - 26
+    Q4 predicted scores:    23 - 27
+    total predicted scores: 115 - 103
+    predicted winner:       HOU
+match 21201206: DET vs PHI
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 104 - 100
+    predicted winner:       DET
+match 21201208: DAL vs MEM
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    23 - 29
+    Q3 predicted scores:    24 - 26
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 96 - 103
+    predicted winner:       MEM
+match 21201223: MEM vs UTA
+    Q1 predicted scores:    22 - 19
+    Q2 predicted scores:    23 - 17
+    Q3 predicted scores:    24 - 16
+    Q4 predicted scores:    22 - 20
+    total predicted scores: 91 - 72
+    predicted winner:       MEM
+match 21300020: CHA vs CLE
+    Q1 predicted scores:    23 - 19
+    Q2 predicted scores:    21 - 21
+    Q3 predicted scores:    21 - 20
+    Q4 predicted scores:    22 - 20
+    total predicted scores: 87 - 80
+    predicted winner:       CHA
+match 21300023: ATL vs TOR
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 96 - 96
+    predicted winner:       ATL
+match 21300037: MIL vs TOR
+    Q1 predicted scores:    21 - 23
+    Q2 predicted scores:    22 - 21
+    Q3 predicted scores:    21 - 23
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 86 - 89
+    predicted winner:       TOR
+match 21300046: LAL vs ATL
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 104 - 100
+    predicted winner:       LAL
+match 21300054: NYK vs CHA
+    Q1 predicted scores:    22 - 23
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    24 - 27
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 94 - 100
+    predicted winner:       CHA
+match 21300055: NOP vs PHX
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    24 - 28
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 100 - 106
+    predicted winner:       PHX
+match 21300057: DEN vs SAS
+    Q1 predicted scores:    22 - 26
+    Q2 predicted scores:    22 - 24
+    Q3 predicted scores:    22 - 26
+    Q4 predicted scores:    20 - 24
+    total predicted scores: 86 - 100
+    predicted winner:       SAS
+match 41100134: BOS vs ATL
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    26 - 20
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    18 - 20
+    total predicted scores: 96 - 79
+    predicted winner:       BOS
+match 41100136: BOS vs ATL
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    22 - 19
+    Q3 predicted scores:    19 - 20
+    Q4 predicted scores:    19 - 20
+    total predicted scores: 83 - 82
+    predicted winner:       BOS
+match 41100141: SAS vs UTA
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    25 - 21
+    Q3 predicted scores:    27 - 21
+    Q4 predicted scores:    27 - 24
+    total predicted scores: 106 - 89
+    predicted winner:       SAS
+match 41100144: UTA vs SAS
+    Q1 predicted scores:    20 - 21
+    Q2 predicted scores:    20 - 21
+    Q3 predicted scores:    21 - 19
+    Q4 predicted scores:    19 - 27
+    total predicted scores: 80 - 88
+    predicted winner:       SAS
+match 41100172: MEM vs LAC
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    29 - 25
+    total predicted scores: 104 - 98
+    predicted winner:       MEM
+match 41100173: LAC vs MEM
+    Q1 predicted scores:    20 - 24
+    Q2 predicted scores:    22 - 20
+    Q3 predicted scores:    20 - 20
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 83 - 86
+    predicted winner:       MEM
+match 41100214: PHI vs BOS
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    23 - 19
+    Q3 predicted scores:    23 - 20
+    Q4 predicted scores:    23 - 17
+    total predicted scores: 90 - 80
+    predicted winner:       PHI
+match 41100217: BOS vs PHI
+    Q1 predicted scores:    23 - 19
+    Q2 predicted scores:    20 - 19
+    Q3 predicted scores:    20 - 18
+    Q4 predicted scores:    20 - 18
+    total predicted scores: 83 - 74
+    predicted winner:       BOS
+match 41100223: LAC vs SAS
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    20 - 25
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    20 - 23
+    total predicted scores: 83 - 96
+    predicted winner:       SAS
+match 41100231: OKC vs LAL
+    Q1 predicted scores:    30 - 22
+    Q2 predicted scores:    28 - 23
+    Q3 predicted scores:    32 - 23
+    Q4 predicted scores:    25 - 21
+    total predicted scores: 115 - 89
+    predicted winner:       OKC
+match 41100307: MIA vs BOS
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    26 - 21
+    Q4 predicted scores:    24 - 21
+    total predicted scores: 99 - 87
+    predicted winner:       MIA
+match 41100401: OKC vs MIA
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    26 - 21
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 103 - 92
+    predicted winner:       OKC
+match 41100402: OKC vs MIA
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 97 - 96
+    predicted winner:       OKC
+match 41200134: CHI vs BKN
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    27 - 26
+    total predicted scores: 105 - 105
+    predicted winner:       CHI
+match 41200143: HOU vs OKC
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    25 - 26
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 101 - 99
+    predicted winner:       HOU
+match 41200153: LAL vs SAS
+    Q1 predicted scores:    22 - 29
+    Q2 predicted scores:    20 - 29
+    Q3 predicted scores:    22 - 29
+    Q4 predicted scores:    21 - 31
+    total predicted scores: 85 - 118
+    predicted winner:       SAS
+match 41200154: LAL vs SAS
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    20 - 28
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    17 - 27
+    total predicted scores: 79 - 103
+    predicted winner:       SAS
+match 41200166: GSW vs DEN
+    Q1 predicted scores:    24 - 20
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    22 - 21
+    Q4 predicted scores:    22 - 21
+    total predicted scores: 91 - 85
+    predicted winner:       GSW
+match 41200201: MIA vs CHI
+    Q1 predicted scores:    20 - 23
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    20 - 24
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 85 - 94
+    predicted winner:       CHI
+match 41200233: GSW vs SAS
+    Q1 predicted scores:    21 - 26
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    21 - 26
+    total predicted scores: 88 - 101
+    predicted winner:       SAS
+match 41200302: MIA vs IND
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 89 - 94
+    predicted winner:       IND
+match 41200312: SAS vs MEM
+    Q1 predicted scores:    24 - 19
+    Q2 predicted scores:    19 - 23
+    Q3 predicted scores:    20 - 22
+    Q4 predicted scores:    17 - 18
+    total predicted scores: 80 - 82
+    predicted winner:       MEM
+match 41200314: MEM vs SAS
+    Q1 predicted scores:    19 - 24
+    Q2 predicted scores:    23 - 22
+    Q3 predicted scores:    20 - 24
+    Q4 predicted scores:    23 - 22
+    total predicted scores: 85 - 92
+    predicted winner:       SAS
+match 11400017: MIL vs MEM
+    Q1 predicted scores:    20 - 20
+    Q2 predicted scores:    21 - 19
+    Q3 predicted scores:    21 - 21
+    Q4 predicted scores:    26 - 17
+    total predicted scores: 88 - 77
+    predicted winner:       MIL
+match 11400026: LAL vs GSW
+    Q1 predicted scores:    24 - 30
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    24 - 31
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 103 - 116
+    predicted winner:       GSW
+match 11400063: GSW vs DEN
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    27 - 22
+    total predicted scores: 104 - 93
+    predicted winner:       GSW
+match 11400064: LAL vs UTA
+    Q1 predicted scores:    21 - 29
+    Q2 predicted scores:    21 - 29
+    Q3 predicted scores:    22 - 30
+    Q4 predicted scores:    20 - 28
+    total predicted scores: 84 - 116
+    predicted winner:       UTA
+match 11400068: MIN vs MIL
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    22 - 26
+    Q4 predicted scores:    23 - 27
+    total predicted scores: 96 - 104
+    predicted winner:       MIL
+match 11400069: OKC vs TOR
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    22 - 28
+    Q3 predicted scores:    22 - 27
+    Q4 predicted scores:    21 - 28
+    total predicted scores: 88 - 107
+    predicted winner:       TOR
+match 11400079: LAC vs DEN
+    Q1 predicted scores:    22 - 22
+    Q2 predicted scores:    24 - 27
+    Q3 predicted scores:    22 - 24
+    Q4 predicted scores:    27 - 26
+    total predicted scores: 95 - 99
+    predicted winner:       DEN
+match 11400096: GSW vs LAC
+    Q1 predicted scores:    31 - 27
+    Q2 predicted scores:    31 - 22
+    Q3 predicted scores:    32 - 27
+    Q4 predicted scores:    29 - 22
+    total predicted scores: 123 - 98
+    predicted winner:       GSW
+match 11400103: NYK vs WAS
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    28 - 23
+    total predicted scores: 102 - 96
+    predicted winner:       NYK
+match 21300052: BKN vs UTA
+    Q1 predicted scores:    25 - 19
+    Q2 predicted scores:    26 - 20
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    22 - 27
+    total predicted scores: 98 - 88
+    predicted winner:       BKN
+match 21300078: DET vs OKC
+    Q1 predicted scores:    26 - 29
+    Q2 predicted scores:    26 - 31
+    Q3 predicted scores:    27 - 30
+    Q4 predicted scores:    26 - 32
+    total predicted scores: 105 - 122
+    predicted winner:       OKC
+match 21300079: CHI vs UTA
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    24 - 18
+    Q3 predicted scores:    25 - 18
+    Q4 predicted scores:    21 - 19
+    total predicted scores: 96 - 74
+    predicted winner:       CHI
+match 21300080: MIN vs DAL
+    Q1 predicted scores:    28 - 25
+    Q2 predicted scores:    29 - 27
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    29 - 25
+    total predicted scores: 113 - 103
+    predicted winner:       MIN
+match 21300083: PHX vs DEN
+    Q1 predicted scores:    28 - 24
+    Q2 predicted scores:    28 - 24
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 110 - 98
+    predicted winner:       PHX
+match 21300092: MIL vs DAL
+    Q1 predicted scores:    21 - 23
+    Q2 predicted scores:    21 - 23
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    20 - 23
+    total predicted scores: 82 - 92
+    predicted winner:       DAL
+match 21300114: MEM vs TOR
+    Q1 predicted scores:    22 - 25
+    Q2 predicted scores:    19 - 26
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    18 - 25
+    total predicted scores: 80 - 100
+    predicted winner:       TOR
+match 21300117: SAS vs WAS
+    Q1 predicted scores:    25 - 20
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 95 - 85
+    predicted winner:       SAS
+match 21300124: GSW vs OKC
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    29 - 29
+    total predicted scores: 110 - 111
+    predicted winner:       OKC
+match 21300125: IND vs MIL
+    Q1 predicted scores:    25 - 20
+    Q2 predicted scores:    26 - 18
+    Q3 predicted scores:    25 - 18
+    Q4 predicted scores:    26 - 16
+    total predicted scores: 102 - 72
+    predicted winner:       IND
+match 21300135: SAC vs DET
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    23 - 27
+    Q3 predicted scores:    21 - 23
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 89 - 98
+    predicted winner:       DET
+match 21300143: NOP vs PHI
+    Q1 predicted scores:    32 - 24
+    Q2 predicted scores:    32 - 24
+    Q3 predicted scores:    31 - 23
+    Q4 predicted scores:    30 - 25
+    total predicted scores: 125 - 96
+    predicted winner:       NOP
+match 21300165: PHI vs TOR
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    26 - 27
+    Q3 predicted scores:    21 - 28
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 98 - 107
+    predicted winner:       TOR
+match 21300166: ATL vs DET
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    21 - 20
+    total predicted scores: 93 - 83
+    predicted winner:       ATL
+match 21300179: BOS vs IND
+    Q1 predicted scores:    22 - 25
+    Q2 predicted scores:    19 - 25
+    Q3 predicted scores:    20 - 25
+    Q4 predicted scores:    19 - 24
+    total predicted scores: 80 - 99
+    predicted winner:       IND
+match 21300195: DEN vs DAL
+    Q1 predicted scores:    25 - 24
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    24 - 23
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 100 - 94
+    predicted winner:       DEN
+match 21300227: LAC vs NYK
+    Q1 predicted scores:    22 - 21
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    22 - 21
+    Q4 predicted scores:    24 - 17
+    total predicted scores: 92 - 78
+    predicted winner:       LAC
+match 21300236: IND vs WAS
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    22 - 19
+    Q3 predicted scores:    25 - 17
+    Q4 predicted scores:    21 - 21
+    total predicted scores: 94 - 76
+    predicted winner:       IND
+match 21300241: WAS vs ATL
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    24 - 25
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    26 - 24
+    total predicted scores: 105 - 94
+    predicted winner:       WAS
+match 21300259: UTA vs HOU
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    25 - 26
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    27 - 26
+    total predicted scores: 105 - 101
+    predicted winner:       UTA
+match 21300265: MEM vs PHX
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    28 - 23
+    Q3 predicted scores:    29 - 21
+    Q4 predicted scores:    27 - 21
+    total predicted scores: 114 - 88
+    predicted winner:       MEM
+match 21300270: ATL vs LAC
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    25 - 26
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 103 - 94
+    predicted winner:       ATL
+match 21300274: UTA vs IND
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    18 - 23
+    total predicted scores: 82 - 95
+    predicted winner:       IND
+match 21300276: POR vs OKC
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    27 - 26
+    total predicted scores: 106 - 98
+    predicted winner:       POR
+match 21300278: MEM vs LAC
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    20 - 25
+    Q3 predicted scores:    20 - 25
+    Q4 predicted scores:    21 - 26
+    total predicted scores: 81 - 98
+    predicted winner:       LAC
+match 21300279: CHI vs MIA
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    26 - 20
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    27 - 22
+    total predicted scores: 106 - 86
+    predicted winner:       CHI
+match 21300292: CHI vs DET
+    Q1 predicted scores:    20 - 21
+    Q2 predicted scores:    20 - 22
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    20 - 24
+    total predicted scores: 80 - 90
+    predicted winner:       DET
+match 21300294: MIN vs MIA
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    20 - 26
+    Q3 predicted scores:    21 - 23
+    Q4 predicted scores:    20 - 24
+    total predicted scores: 82 - 98
+    predicted winner:       MIA
+match 21300309: SAC vs DAL
+    Q1 predicted scores:    29 - 20
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    23 - 28
+    total predicted scores: 104 - 94
+    predicted winner:       SAC
+match 21300322: MIN vs PHI
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    26 - 21
+    total predicted scores: 101 - 91
+    predicted winner:       MIN
+match 21300335: NOP vs MEM
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 105 - 98
+    predicted winner:       NOP
+match 21300341: GSW vs HOU
+    Q1 predicted scores:    27 - 27
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    28 - 29
+    total predicted scores: 109 - 109
+    predicted winner:       GSW
+match 21300347: PHI vs POR
+    Q1 predicted scores:    27 - 31
+    Q2 predicted scores:    24 - 31
+    Q3 predicted scores:    27 - 31
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 103 - 121
+    predicted winner:       POR
+match 21300358: BOS vs MIN
+    Q1 predicted scores:    25 - 20
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    23 - 21
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 98 - 91
+    predicted winner:       BOS
+match 21300359: BKN vs PHI
+    Q1 predicted scores:    32 - 24
+    Q2 predicted scores:    31 - 25
+    Q3 predicted scores:    31 - 20
+    Q4 predicted scores:    28 - 21
+    total predicted scores: 122 - 90
+    predicted winner:       BKN
+match 21300367: DEN vs OKC
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    21 - 27
+    Q3 predicted scores:    22 - 24
+    Q4 predicted scores:    21 - 26
+    total predicted scores: 89 - 102
+    predicted winner:       OKC
+match 21300368: GSW vs NOP
+    Q1 predicted scores:    27 - 19
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    28 - 21
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 103 - 88
+    predicted winner:       GSW
+match 21300382: GSW vs SAS
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 27
+    total predicted scores: 101 - 99
+    predicted winner:       GSW
+match 21300387: MIA vs SAC
+    Q1 predicted scores:    32 - 26
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    32 - 23
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 118 - 97
+    predicted winner:       MIA
+match 21300402: GSW vs LAL
+    Q1 predicted scores:    24 - 19
+    Q2 predicted scores:    25 - 21
+    Q3 predicted scores:    27 - 18
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 101 - 83
+    predicted winner:       GSW
+match 21300414: SAS vs TOR
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 107 - 93
+    predicted winner:       SAS
+match 21300416: PHX vs LAL
+    Q1 predicted scores:    30 - 20
+    Q2 predicted scores:    31 - 21
+    Q3 predicted scores:    30 - 20
+    Q4 predicted scores:    26 - 20
+    total predicted scores: 117 - 81
+    predicted winner:       PHX
+match 21300425: DAL vs SAS
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    25 - 30
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    26 - 32
+    total predicted scores: 103 - 114
+    predicted winner:       SAS
+match 21300428: ORL vs DET
+    Q1 predicted scores:    26 - 21
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    22 - 26
+    total predicted scores: 100 - 92
+    predicted winner:       ORL
+match 21300434: SAC vs MIA
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    24 - 22
+    total predicted scores: 95 - 92
+    predicted winner:       SAC
+match 21300447: LAC vs UTA
+    Q1 predicted scores:    25 - 22
+    Q2 predicted scores:    24 - 21
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 100 - 89
+    predicted winner:       LAC
+match 21300456: NOP vs POR
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    26 - 28
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 106 - 110
+    predicted winner:       POR
+match 21300462: ORL vs GSW
+    Q1 predicted scores:    19 - 26
+    Q2 predicted scores:    21 - 22
+    Q3 predicted scores:    19 - 23
+    Q4 predicted scores:    20 - 20
+    total predicted scores: 79 - 91
+    predicted winner:       GSW
+match 21300468: WAS vs DAL
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    20 - 20
+    Q3 predicted scores:    20 - 19
+    Q4 predicted scores:    17 - 24
+    total predicted scores: 77 - 85
+    predicted winner:       DAL
+match 21300474: MIA vs GSW
+    Q1 predicted scores:    26 - 31
+    Q2 predicted scores:    28 - 29
+    Q3 predicted scores:    26 - 31
+    Q4 predicted scores:    28 - 29
+    total predicted scores: 108 - 120
+    predicted winner:       GSW
+match 21300483: ATL vs GSW
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 102 - 96
+    predicted winner:       ATL
+match 21300490: ORL vs MIA
+    Q1 predicted scores:    22 - 26
+    Q2 predicted scores:    24 - 29
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    22 - 26
+    total predicted scores: 91 - 107
+    predicted winner:       MIA
+match 21300502: OKC vs BOS
+    Q1 predicted scores:    30 - 24
+    Q2 predicted scores:    30 - 25
+    Q3 predicted scores:    30 - 23
+    Q4 predicted scores:    28 - 24
+    total predicted scores: 118 - 96
+    predicted winner:       OKC
+match 21300523: BKN vs GSW
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 99 - 91
+    predicted winner:       BKN
+match 21300528: LAC vs BOS
+    Q1 predicted scores:    28 - 24
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    27 - 23
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 109 - 101
+    predicted winner:       LAC
+match 21300532: PHI vs DET
+    Q1 predicted scores:    25 - 29
+    Q2 predicted scores:    26 - 30
+    Q3 predicted scores:    22 - 28
+    Q4 predicted scores:    26 - 28
+    total predicted scores: 99 - 115
+    predicted winner:       DET
+match 21300557: NYK vs PHX
+    Q1 predicted scores:    21 - 20
+    Q2 predicted scores:    23 - 22
+    Q3 predicted scores:    22 - 22
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 87 - 86
+    predicted winner:       NYK
+match 21300563: IND vs SAC
+    Q1 predicted scores:    30 - 20
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    28 - 25
+    Q4 predicted scores:    25 - 21
+    total predicted scores: 113 - 89
+    predicted winner:       IND
+match 21300587: DET vs UTA
+    Q1 predicted scores:    22 - 27
+    Q2 predicted scores:    20 - 28
+    Q3 predicted scores:    21 - 26
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 86 - 104
+    predicted winner:       UTA
+match 21300600: DAL vs POR
+    Q1 predicted scores:    21 - 32
+    Q2 predicted scores:    26 - 30
+    Q3 predicted scores:    24 - 37
+    Q4 predicted scores:    34 - 21
+    total predicted scores: 105 - 120
+    predicted winner:       POR
+match 21300603: OKC vs SAC
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    28 - 23
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 105 - 95
+    predicted winner:       OKC
+match 21300636: BOS vs OKC
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    19 - 27
+    Q3 predicted scores:    19 - 25
+    Q4 predicted scores:    19 - 24
+    total predicted scores: 78 - 101
+    predicted winner:       OKC
+match 21300648: PHI vs OKC
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    20 - 29
+    Q3 predicted scores:    22 - 26
+    Q4 predicted scores:    20 - 26
+    total predicted scores: 87 - 106
+    predicted winner:       OKC
+match 21300654: MIA vs SAS
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    28 - 26
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    23 - 28
+    total predicted scores: 104 - 103
+    predicted winner:       MIA
+match 21300676: TOR vs ORL
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    23 - 20
+    Q3 predicted scores:    25 - 18
+    Q4 predicted scores:    20 - 18
+    total predicted scores: 94 - 75
+    predicted winner:       TOR
+match 21300687: NYK vs CLE
+    Q1 predicted scores:    30 - 20
+    Q2 predicted scores:    29 - 20
+    Q3 predicted scores:    27 - 20
+    Q4 predicted scores:    29 - 22
+    total predicted scores: 115 - 82
+    predicted winner:       NYK
+match 21300694: DEN vs TOR
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    22 - 24
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 89 - 94
+    predicted winner:       TOR
+match 21300733: ORL vs DET
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    29 - 25
+    Q3 predicted scores:    29 - 25
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 113 - 97
+    predicted winner:       ORL
+match 21300742: WAS vs CLE
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    27 - 27
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    28 - 30
+    total predicted scores: 110 - 110
+    predicted winner:       WAS
+match 21300758: BOS vs DAL
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    24 - 28
+    Q3 predicted scores:    21 - 27
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 90 - 105
+    predicted winner:       DAL
+match 21300787: UTA vs PHI
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    27 - 22
+    total predicted scores: 103 - 92
+    predicted winner:       UTA
+match 21300788: GSW vs MIA
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    26 - 28
+    Q3 predicted scores:    27 - 25
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 107 - 108
+    predicted winner:       MIA
+match 21300802: CLE vs ORL
+    Q1 predicted scores:    27 - 20
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 100 - 88
+    predicted winner:       CLE
+match 21300836: TOR vs ORL
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 103 - 91
+    predicted winner:       TOR
+match 21300840: POR vs MIN
+    Q1 predicted scores:    27 - 20
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    27 - 23
+    total predicted scores: 105 - 90
+    predicted winner:       POR
+match 21300861: POR vs BKN
+    Q1 predicted scores:    28 - 19
+    Q2 predicted scores:    30 - 19
+    Q3 predicted scores:    29 - 20
+    Q4 predicted scores:    30 - 17
+    total predicted scores: 117 - 75
+    predicted winner:       POR
+match 21300871: SAS vs CHA
+    Q1 predicted scores:    24 - 20
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    24 - 19
+    total predicted scores: 97 - 82
+    predicted winner:       SAS
+match 21300879: MEM vs CLE
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    28 - 25
+    Q3 predicted scores:    29 - 24
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 112 - 94
+    predicted winner:       MEM
+match 21300885: IND vs UTA
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    22 - 23
+    Q3 predicted scores:    23 - 21
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 89 - 89
+    predicted winner:       IND
+match 21300912: DEN vs DAL
+    Q1 predicted scores:    31 - 26
+    Q2 predicted scores:    28 - 26
+    Q3 predicted scores:    30 - 24
+    Q4 predicted scores:    30 - 30
+    total predicted scores: 119 - 106
+    predicted winner:       DEN
+match 21300927: GSW vs ATL
+    Q1 predicted scores:    29 - 24
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    30 - 26
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 117 - 95
+    predicted winner:       GSW
+match 21300929: PHI vs UTA
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    21 - 26
+    Q3 predicted scores:    22 - 27
+    Q4 predicted scores:    21 - 27
+    total predicted scores: 89 - 105
+    predicted winner:       UTA
+match 21300934: CHI vs MIA
+    Q1 predicted scores:    22 - 23
+    Q2 predicted scores:    23 - 19
+    Q3 predicted scores:    22 - 20
+    Q4 predicted scores:    22 - 18
+    total predicted scores: 89 - 80
+    predicted winner:       CHI
+match 21300947: MIL vs ORL
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    27 - 22
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 103 - 97
+    predicted winner:       MIL
+match 21300955: OKC vs HOU
+    Q1 predicted scores:    24 - 22
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    27 - 24
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 102 - 93
+    predicted winner:       OKC
+match 21300986: CHI vs SAC
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    25 - 20
+    Q3 predicted scores:    21 - 22
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 93 - 85
+    predicted winner:       CHI
+match 21300991: MIN vs SAC
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    27 - 24
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 104 - 101
+    predicted winner:       MIN
+match 21300996: CHA vs ATL
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    23 - 26
+    Q3 predicted scores:    19 - 25
+    Q4 predicted scores:    18 - 22
+    total predicted scores: 83 - 98
+    predicted winner:       ATL
+match 21301009: BOS vs MIA
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    26 - 27
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 98 - 100
+    predicted winner:       MIA
+match 21301014: DAL vs MIN
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    28 - 30
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    28 - 27
+    total predicted scores: 111 - 110
+    predicted winner:       DAL
+match 21301015: DEN vs DET
+    Q1 predicted scores:    30 - 27
+    Q2 predicted scores:    30 - 26
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    30 - 25
+    total predicted scores: 117 - 104
+    predicted winner:       DEN
+match 21301036: NOP vs MIA
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    27 - 22
+    total predicted scores: 104 - 94
+    predicted winner:       NOP
+match 21301037: UTA vs ORL
+    Q1 predicted scores:    21 - 22
+    Q2 predicted scores:    21 - 20
+    Q3 predicted scores:    20 - 22
+    Q4 predicted scores:    21 - 24
+    total predicted scores: 83 - 88
+    predicted winner:       ORL
+match 21301039: LAC vs DET
+    Q1 predicted scores:    30 - 25
+    Q2 predicted scores:    28 - 29
+    Q3 predicted scores:    30 - 23
+    Q4 predicted scores:    27 - 25
+    total predicted scores: 115 - 102
+    predicted winner:       LAC
+match 21301043: SAC vs MIL
+    Q1 predicted scores:    28 - 22
+    Q2 predicted scores:    27 - 27
+    Q3 predicted scores:    29 - 27
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 111 - 105
+    predicted winner:       SAC
+match 21301055: UTA vs DET
+    Q1 predicted scores:    22 - 29
+    Q2 predicted scores:    22 - 28
+    Q3 predicted scores:    24 - 29
+    Q4 predicted scores:    21 - 29
+    total predicted scores: 89 - 115
+    predicted winner:       DET
+match 21301060: LAL vs NYK
+    Q1 predicted scores:    29 - 24
+    Q2 predicted scores:    31 - 23
+    Q3 predicted scores:    31 - 24
+    Q4 predicted scores:    32 - 21
+    total predicted scores: 123 - 92
+    predicted winner:       LAL
+match 21301065: MIN vs ATL
+    Q1 predicted scores:    30 - 20
+    Q2 predicted scores:    25 - 21
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    26 - 19
+    total predicted scores: 107 - 80
+    predicted winner:       MIN
+match 21301085: PHX vs NYK
+    Q1 predicted scores:    30 - 19
+    Q2 predicted scores:    27 - 23
+    Q3 predicted scores:    25 - 21
+    Q4 predicted scores:    24 - 21
+    total predicted scores: 106 - 84
+    predicted winner:       PHX
+match 21301106: CHI vs BOS
+    Q1 predicted scores:    26 - 22
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    24 - 20
+    Q4 predicted scores:    23 - 17
+    total predicted scores: 97 - 78
+    predicted winner:       CHI
+match 21301111: BKN vs HOU
+    Q1 predicted scores:    28 - 22
+    Q2 predicted scores:    24 - 21
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 101 - 89
+    predicted winner:       BKN
+match 21301112: DAL vs GSW
+    Q1 predicted scores:    26 - 31
+    Q2 predicted scores:    29 - 28
+    Q3 predicted scores:    25 - 29
+    Q4 predicted scores:    28 - 27
+    total predicted scores: 108 - 115
+    predicted winner:       GSW
+match 21301116: ORL vs CLE
+    Q1 predicted scores:    24 - 31
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    23 - 30
+    Q4 predicted scores:    24 - 30
+    total predicted scores: 96 - 119
+    predicted winner:       CLE
+match 21301136: NYK vs WAS
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    22 - 21
+    Q3 predicted scores:    23 - 23
+    Q4 predicted scores:    21 - 21
+    total predicted scores: 89 - 88
+    predicted winner:       NYK
+match 21301145: CLE vs CHA
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    20 - 23
+    Q3 predicted scores:    22 - 21
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 86 - 92
+    predicted winner:       CHA
+match 21301147: PHI vs BKN
+    Q1 predicted scores:    23 - 27
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    23 - 27
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 95 - 107
+    predicted winner:       BKN
+match 21301158: MIA vs BKN
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    23 - 22
+    Q3 predicted scores:    22 - 22
+    Q4 predicted scores:    20 - 21
+    total predicted scores: 89 - 88
+    predicted winner:       MIA
+match 21301175: GSW vs DEN
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    21 - 26
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 95 - 98
+    predicted winner:       DEN
+match 21301184: OKC vs NOP
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    30 - 23
+    Q4 predicted scores:    23 - 27
+    total predicted scores: 113 - 96
+    predicted winner:       OKC
+match 21301195: DAL vs PHX
+    Q1 predicted scores:    25 - 24
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 99 - 96
+    predicted winner:       DAL
+match 21301208: CHI vs ORL
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 105 - 93
+    predicted winner:       CHI
+match 21301220: OKC vs DET
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    28 - 25
+    total predicted scores: 108 - 99
+    predicted winner:       OKC
+match 21301230: DEN vs GSW
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    25 - 28
+    Q4 predicted scores:    28 - 29
+    total predicted scores: 105 - 112
+    predicted winner:       GSW
+match 21400004: CHA vs MIL
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 98 - 97
+    predicted winner:       CHA
+match 21400013: PHX vs LAL
+    Q1 predicted scores:    28 - 22
+    Q2 predicted scores:    26 - 27
+    Q3 predicted scores:    28 - 21
+    Q4 predicted scores:    22 - 27
+    total predicted scores: 104 - 97
+    predicted winner:       PHX
+match 21400022: CHI vs CLE
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    23 - 25
+    total predicted scores: 95 - 102
+    predicted winner:       CLE
+match 21400027: NOP vs DAL
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    24 - 27
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    22 - 26
+    total predicted scores: 98 - 104
+    predicted winner:       DAL
+match 21400042: POR vs GSW
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    23 - 22
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 89 - 95
+    predicted winner:       GSW
+match 21400063: WAS vs IND
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    20 - 23
+    Q3 predicted scores:    21 - 20
+    Q4 predicted scores:    21 - 19
+    total predicted scores: 86 - 85
+    predicted winner:       WAS
+match 21400084: ATL vs NYK
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    25 - 25
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 100 - 95
+    predicted winner:       ATL
+match 21400096: POR vs DEN
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    30 - 24
+    Q3 predicted scores:    30 - 21
+    Q4 predicted scores:    27 - 24
+    total predicted scores: 117 - 92
+    predicted winner:       POR
+match 21400098: CLE vs NOP
+    Q1 predicted scores:    31 - 29
+    Q2 predicted scores:    29 - 28
+    Q3 predicted scores:    30 - 30
+    Q4 predicted scores:    29 - 26
+    total predicted scores: 119 - 113
+    predicted winner:       CLE
+match 21400103: TOR vs ORL
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    24 - 23
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 98 - 94
+    predicted winner:       TOR
+match 21400119: TOR vs CHI
+    Q1 predicted scores:    21 - 26
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 89 - 97
+    predicted winner:       CHI
+match 21400121: GSW vs BKN
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    29 - 25
+    Q3 predicted scores:    29 - 26
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 112 - 99
+    predicted winner:       GSW
+match 21400124: ATL vs MIA
+    Q1 predicted scores:    30 - 27
+    Q2 predicted scores:    31 - 25
+    Q3 predicted scores:    30 - 27
+    Q4 predicted scores:    31 - 26
+    total predicted scores: 122 - 105
+    predicted winner:       ATL
+match 21400126: NYK vs UTA
+    Q1 predicted scores:    23 - 27
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    27 - 24
+    total predicted scores: 100 - 103
+    predicted winner:       UTA
+match 21400131: LAL vs SAS
+    Q1 predicted scores:    19 - 26
+    Q2 predicted scores:    19 - 22
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    22 - 21
+    total predicted scores: 80 - 92
+    predicted winner:       SAS
+match 21400138: POR vs BKN
+    Q1 predicted scores:    25 - 21
+    Q2 predicted scores:    23 - 22
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    23 - 17
+    total predicted scores: 96 - 84
+    predicted winner:       POR
+match 21400152: SAS vs PHI
+    Q1 predicted scores:    27 - 18
+    Q2 predicted scores:    25 - 20
+    Q3 predicted scores:    27 - 18
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 103 - 79
+    predicted winner:       SAS
+match 21400167: MIN vs NYK
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    27 - 23
+    Q3 predicted scores:    27 - 23
+    Q4 predicted scores:    24 - 27
+    total predicted scores: 105 - 96
+    predicted winner:       MIN
+match 21400173: PHI vs PHX
+    Q1 predicted scores:    23 - 29
+    Q2 predicted scores:    24 - 30
+    Q3 predicted scores:    23 - 30
+    Q4 predicted scores:    24 - 30
+    total predicted scores: 94 - 119
+    predicted winner:       PHX
+match 21400177: MIN vs SAS
+    Q1 predicted scores:    21 - 29
+    Q2 predicted scores:    21 - 29
+    Q3 predicted scores:    22 - 30
+    Q4 predicted scores:    23 - 28
+    total predicted scores: 87 - 116
+    predicted winner:       SAS
+match 21400187: NYK vs PHI
+    Q1 predicted scores:    22 - 21
+    Q2 predicted scores:    22 - 21
+    Q3 predicted scores:    23 - 21
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 88 - 86
+    predicted winner:       NYK
+match 21400197: LAL vs DEN
+    Q1 predicted scores:    21 - 20
+    Q2 predicted scores:    21 - 24
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    19 - 26
+    total predicted scores: 85 - 94
+    predicted winner:       DEN
+match 21400218: MIN vs MIL
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    21 - 27
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 86 - 100
+    predicted winner:       MIL
+match 21400219: OKC vs UTA
+    Q1 predicted scores:    22 - 23
+    Q2 predicted scores:    25 - 18
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    23 - 17
+    total predicted scores: 95 - 80
+    predicted winner:       OKC
+match 21400230: IND vs ORL
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    22 - 20
+    total predicted scores: 96 - 82
+    predicted winner:       IND
+match 21400234: LAL vs MIN
+    Q1 predicted scores:    28 - 30
+    Q2 predicted scores:    28 - 29
+    Q3 predicted scores:    27 - 31
+    Q4 predicted scores:    29 - 30
+    total predicted scores: 112 - 120
+    predicted winner:       MIN
+match 21400245: NYK vs MIA
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    18 - 20
+    Q3 predicted scores:    20 - 19
+    Q4 predicted scores:    18 - 20
+    total predicted scores: 76 - 81
+    predicted winner:       MIA
+match 21400271: UTA vs TOR
+    Q1 predicted scores:    27 - 30
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    26 - 29
+    Q4 predicted scores:    24 - 29
+    total predicted scores: 102 - 117
+    predicted winner:       TOR
+match 21400285: MIL vs MIA
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    27 - 20
+    Q3 predicted scores:    27 - 20
+    Q4 predicted scores:    26 - 18
+    total predicted scores: 106 - 81
+    predicted winner:       MIL
+match 21400286: UTA vs ORL
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    22 - 24
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 95 - 97
+    predicted winner:       ORL
+match 21400296: MEM vs MIA
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 20
+    total predicted scores: 105 - 90
+    predicted winner:       MEM
+match 21400297: DET vs OKC
+    Q1 predicted scores:    24 - 22
+    Q2 predicted scores:    23 - 25
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 93 - 94
+    predicted winner:       OKC
+match 21400313: PHX vs MIA
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 93 - 104
+    predicted winner:       MIA
+match 21400349: MIA vs CHI
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    18 - 25
+    Q3 predicted scores:    19 - 25
+    Q4 predicted scores:    20 - 22
+    total predicted scores: 77 - 94
+    predicted winner:       CHI
+match 21400353: NYK vs TOR
+    Q1 predicted scores:    21 - 22
+    Q2 predicted scores:    19 - 23
+    Q3 predicted scores:    20 - 21
+    Q4 predicted scores:    20 - 21
+    total predicted scores: 80 - 87
+    predicted winner:       TOR
+match 21400363: WAS vs MIN
+    Q1 predicted scores:    30 - 22
+    Q2 predicted scores:    29 - 23
+    Q3 predicted scores:    30 - 24
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 114 - 92
+    predicted winner:       WAS
+match 21400412: MEM vs UTA
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 93 - 96
+    predicted winner:       UTA
+match 21400413: DAL vs ATL
+    Q1 predicted scores:    24 - 28
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    25 - 25
+    Q4 predicted scores:    27 - 27
+    total predicted scores: 103 - 105
+    predicted winner:       ATL
+match 21400423: MIL vs CHA
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    25 - 27
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    24 - 28
+    total predicted scores: 99 - 108
+    predicted winner:       CHA
+match 21400437: NOP vs SAS
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 99 - 91
+    predicted winner:       NOP
+match 21400439: DAL vs LAL
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    24 - 26
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 99 - 100
+    predicted winner:       LAL
+match 21400440: DEN vs MIN
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    24 - 26
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 99 - 99
+    predicted winner:       DEN
+match 21400442: SAC vs PHX
+    Q1 predicted scores:    23 - 30
+    Q2 predicted scores:    26 - 28
+    Q3 predicted scores:    25 - 30
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 99 - 116
+    predicted winner:       PHX
+match 21400444: CHA vs ORL
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    23 - 26
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 94 - 100
+    predicted winner:       ORL
+match 21400457: DEN vs TOR
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    23 - 30
+    Q3 predicted scores:    24 - 29
+    Q4 predicted scores:    22 - 31
+    total predicted scores: 94 - 116
+    predicted winner:       TOR
+match 21400484: CHA vs CLE
+    Q1 predicted scores:    20 - 20
+    Q2 predicted scores:    20 - 23
+    Q3 predicted scores:    20 - 22
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 81 - 88
+    predicted winner:       CLE
+match 21400487: NYK vs DET
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    20 - 26
+    Q3 predicted scores:    20 - 25
+    Q4 predicted scores:    22 - 18
+    total predicted scores: 85 - 95
+    predicted winner:       DET
+match 21400488: NOP vs HOU
+    Q1 predicted scores:    29 - 21
+    Q2 predicted scores:    29 - 22
+    Q3 predicted scores:    30 - 20
+    Q4 predicted scores:    26 - 18
+    total predicted scores: 114 - 81
+    predicted winner:       NOP
+match 21400498: MIN vs UTA
+    Q1 predicted scores:    24 - 29
+    Q2 predicted scores:    23 - 27
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 92 - 106
+    predicted winner:       UTA
+match 21400501: POR vs ATL
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    26 - 29
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    26 - 28
+    total predicted scores: 104 - 111
+    predicted winner:       ATL
+match 21400515: NOP vs WAS
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    22 - 22
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    19 - 25
+    total predicted scores: 82 - 95
+    predicted winner:       WAS
+match 21400519: LAC vs ATL
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    26 - 28
+    Q3 predicted scores:    21 - 27
+    Q4 predicted scores:    27 - 27
+    total predicted scores: 98 - 109
+    predicted winner:       ATL
+match 21400525: WAS vs NYK
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 101 - 92
+    predicted winner:       WAS
+match 21400530: DEN vs ORL
+    Q1 predicted scores:    25 - 20
+    Q2 predicted scores:    22 - 22
+    Q3 predicted scores:    21 - 21
+    Q4 predicted scores:    22 - 27
+    total predicted scores: 90 - 90
+    predicted winner:       DEN
+match 21400544: MIL vs MIN
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    25 - 20
+    Q3 predicted scores:    24 - 21
+    Q4 predicted scores:    23 - 21
+    total predicted scores: 96 - 86
+    predicted winner:       MIL
+match 21400545: SAS vs PHX
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 102 - 95
+    predicted winner:       SAS
+match 21400547: GSW vs CLE
+    Q1 predicted scores:    28 - 24
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    29 - 24
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 115 - 93
+    predicted winner:       GSW
+match 21400550: LAC vs DAL
+    Q1 predicted scores:    32 - 25
+    Q2 predicted scores:    29 - 24
+    Q3 predicted scores:    31 - 23
+    Q4 predicted scores:    23 - 26
+    total predicted scores: 115 - 98
+    predicted winner:       LAC
+match 21400558: ATL vs WAS
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    30 - 22
+    Q3 predicted scores:    30 - 24
+    Q4 predicted scores:    29 - 20
+    total predicted scores: 117 - 89
+    predicted winner:       ATL
+match 21400568: PHI vs ATL
+    Q1 predicted scores:    20 - 26
+    Q2 predicted scores:    21 - 26
+    Q3 predicted scores:    20 - 26
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 82 - 103
+    predicted winner:       ATL
+match 21400577: DET vs NOP
+    Q1 predicted scores:    26 - 27
+    Q2 predicted scores:    23 - 28
+    Q3 predicted scores:    24 - 25
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 99 - 103
+    predicted winner:       NOP
+match 21400581: DEN vs DAL
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    27 - 27
+    Q3 predicted scores:    28 - 26
+    Q4 predicted scores:    26 - 29
+    total predicted scores: 109 - 105
+    predicted winner:       DEN
+match 21400598: SAC vs MIA
+    Q1 predicted scores:    20 - 25
+    Q2 predicted scores:    20 - 26
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    19 - 24
+    total predicted scores: 79 - 98
+    predicted winner:       MIA
+match 21400616: MEM vs DAL
+    Q1 predicted scores:    21 - 23
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    24 - 23
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 94 - 96
+    predicted winner:       DAL
+match 21400618: NYK vs NOP
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 103 - 95
+    predicted winner:       NYK
+match 21400646: DAL vs CHI
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 93 - 97
+    predicted winner:       CHI
+match 21400663: SAS vs MIL
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 98 - 95
+    predicted winner:       SAS
+match 21400669: NYK vs SAC
+    Q1 predicted scores:    21 - 30
+    Q2 predicted scores:    21 - 29
+    Q3 predicted scores:    21 - 32
+    Q4 predicted scores:    21 - 27
+    total predicted scores: 84 - 118
+    predicted winner:       SAC
+match 21400679: GSW vs CHI
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 102 - 98
+    predicted winner:       GSW
+match 21400683: ATL vs BKN
+    Q1 predicted scores:    30 - 27
+    Q2 predicted scores:    29 - 24
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    28 - 25
+    total predicted scores: 113 - 102
+    predicted winner:       ATL
+match 21400691: PHX vs WAS
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    27 - 23
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    28 - 23
+    total predicted scores: 107 - 93
+    predicted winner:       PHX
+match 21400695: LAL vs CHI
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 98 - 99
+    predicted winner:       CHI
+match 21400700: CLE vs SAC
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    27 - 21
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 101 - 85
+    predicted winner:       CLE
+match 21400701: NOP vs LAC
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    27 - 25
+    total predicted scores: 107 - 98
+    predicted winner:       NOP
+match 21400707: WAS vs TOR
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    26 - 27
+    Q3 predicted scores:    24 - 27
+    Q4 predicted scores:    28 - 27
+    total predicted scores: 103 - 107
+    predicted winner:       TOR
+match 21400719: WAS vs CHA
+    Q1 predicted scores:    20 - 23
+    Q2 predicted scores:    24 - 21
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    22 - 19
+    total predicted scores: 86 - 86
+    predicted winner:       WAS
+match 21400742: CHA vs WAS
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    22 - 23
+    Q3 predicted scores:    24 - 23
+    Q4 predicted scores:    22 - 18
+    total predicted scores: 91 - 87
+    predicted winner:       CHA
+match 21400748: ORL vs LAL
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    22 - 22
+    Q3 predicted scores:    24 - 23
+    Q4 predicted scores:    21 - 20
+    total predicted scores: 93 - 90
+    predicted winner:       ORL
+match 21400753: HOU vs MIL
+    Q1 predicted scores:    31 - 25
+    Q2 predicted scores:    30 - 29
+    Q3 predicted scores:    30 - 27
+    Q4 predicted scores:    27 - 27
+    total predicted scores: 118 - 108
+    predicted winner:       HOU
+match 21400765: OKC vs LAC
+    Q1 predicted scores:    29 - 25
+    Q2 predicted scores:    30 - 26
+    Q3 predicted scores:    30 - 26
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 116 - 106
+    predicted winner:       OKC
+match 21400779: MIN vs ATL
+    Q1 predicted scores:    26 - 31
+    Q2 predicted scores:    26 - 28
+    Q3 predicted scores:    24 - 30
+    Q4 predicted scores:    26 - 26
+    total predicted scores: 102 - 115
+    predicted winner:       ATL
+match 21400781: DAL vs LAC
+    Q1 predicted scores:    25 - 30
+    Q2 predicted scores:    24 - 29
+    Q3 predicted scores:    23 - 30
+    Q4 predicted scores:    21 - 27
+    total predicted scores: 93 - 116
+    predicted winner:       LAC
+match 21400785: CHI vs SAC
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 21
+    total predicted scores: 103 - 89
+    predicted winner:       CHI
+match 21400788: ORL vs NYK
+    Q1 predicted scores:    23 - 19
+    Q2 predicted scores:    22 - 20
+    Q3 predicted scores:    23 - 19
+    Q4 predicted scores:    22 - 18
+    total predicted scores: 90 - 76
+    predicted winner:       ORL
+match 21400789: BOS vs ATL
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    19 - 22
+    total predicted scores: 86 - 90
+    predicted winner:       ATL
+match 21400808: MIN vs PHX
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    28 - 29
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    27 - 27
+    total predicted scores: 109 - 109
+    predicted winner:       MIN
+match 21400818: CHI vs PHX
+    Q1 predicted scores:    27 - 27
+    Q2 predicted scores:    27 - 28
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    27 - 25
+    total predicted scores: 107 - 106
+    predicted winner:       CHI
+match 21400823: DET vs WAS
+    Q1 predicted scores:    26 - 22
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 102 - 90
+    predicted winner:       DET
+match 21400840: OKC vs IND
+    Q1 predicted scores:    29 - 25
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    29 - 25
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 107 - 96
+    predicted winner:       OKC
+match 21400843: ATL vs DAL
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    27 - 23
+    Q4 predicted scores:    24 - 21
+    total predicted scores: 103 - 89
+    predicted winner:       ATL
+match 21400851: UTA vs LAL
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    24 - 25
+    Q3 predicted scores:    23 - 23
+    Q4 predicted scores:    22 - 26
+    total predicted scores: 93 - 100
+    predicted winner:       LAL
+match 21400871: MIA vs ATL
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    21 - 23
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    21 - 24
+    total predicted scores: 88 - 93
+    predicted winner:       ATL
+match 21400875: PHX vs SAS
+    Q1 predicted scores:    20 - 25
+    Q2 predicted scores:    21 - 25
+    Q3 predicted scores:    20 - 28
+    Q4 predicted scores:    27 - 24
+    total predicted scores: 88 - 102
+    predicted winner:       SAS
+match 21400893: CHI vs WAS
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 94 - 94
+    predicted winner:       CHI
+match 21400898: BOS vs UTA
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    22 - 21
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 83 - 88
+    predicted winner:       UTA
+match 21400920: WAS vs MIA
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    23 - 21
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 93 - 91
+    predicted winner:       WAS
+match 21400932: GSW vs LAC
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 27
+    total predicted scores: 104 - 99
+    predicted winner:       GSW
+match 21400958: DEN vs ATL
+    Q1 predicted scores:    31 - 22
+    Q2 predicted scores:    31 - 24
+    Q3 predicted scores:    30 - 24
+    Q4 predicted scores:    22 - 32
+    total predicted scores: 114 - 102
+    predicted winner:       DEN
+match 21400962: IND vs MIL
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 95 - 94
+    predicted winner:       IND
+match 21400964: SAS vs CLE
+    Q1 predicted scores:    28 - 28
+    Q2 predicted scores:    28 - 26
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 29
+    total predicted scores: 107 - 108
+    predicted winner:       CLE
+match 21400970: TOR vs MIA
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 105 - 94
+    predicted winner:       TOR
+match 21400985: ORL vs CLE
+    Q1 predicted scores:    27 - 31
+    Q2 predicted scores:    25 - 30
+    Q3 predicted scores:    26 - 30
+    Q4 predicted scores:    27 - 28
+    total predicted scores: 105 - 119
+    predicted winner:       CLE
+match 41300111: MIA vs CHA
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    26 - 21
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    24 - 19
+    total predicted scores: 93 - 87
+    predicted winner:       MIA
+match 41300112: MIA vs CHA
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 101 - 94
+    predicted winner:       MIA
+match 41300127: TOR vs BKN
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    24 - 20
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 101 - 93
+    predicted winner:       TOR
+match 41300132: CHI vs WAS
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    20 - 23
+    total predicted scores: 89 - 96
+    predicted winner:       WAS
+match 41300135: CHI vs WAS
+    Q1 predicted scores:    19 - 19
+    Q2 predicted scores:    18 - 19
+    Q3 predicted scores:    19 - 16
+    Q4 predicted scores:    17 - 18
+    total predicted scores: 73 - 72
+    predicted winner:       CHI
+match 41300146: DAL vs SAS
+    Q1 predicted scores:    25 - 28
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    28 - 28
+    total predicted scores: 107 - 112
+    predicted winner:       SAS
+match 41300153: MEM vs OKC
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    23 - 21
+    total predicted scores: 93 - 87
+    predicted winner:       MEM
+match 41300161: LAC vs GSW
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    24 - 27
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 101 - 107
+    predicted winner:       GSW
+match 41300165: LAC vs GSW
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    28 - 25
+    total predicted scores: 108 - 99
+    predicted winner:       LAC
+match 41300171: HOU vs POR
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    29 - 26
+    Q3 predicted scores:    24 - 26
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 105 - 104
+    predicted winner:       HOU
+match 41300174: POR vs HOU
+    Q1 predicted scores:    27 - 27
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 104 - 103
+    predicted winner:       POR
+match 41300233: LAC vs OKC
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    26 - 30
+    Q3 predicted scores:    27 - 28
+    Q4 predicted scores:    25 - 30
+    total predicted scores: 106 - 114
+    predicted winner:       OKC
+match 41300404: MIA vs SAS
+    Q1 predicted scores:    21 - 30
+    Q2 predicted scores:    22 - 28
+    Q3 predicted scores:    22 - 30
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 87 - 112
+    predicted winner:       SAS
+match 11500007: POR vs SAC
+    Q1 predicted scores:    25 - 24
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    22 - 25
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 94 - 98
+    predicted winner:       SAC
+match 11500010: LAL vs UTA
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    24 - 27
+    Q4 predicted scores:    25 - 26
+    total predicted scores: 100 - 104
+    predicted winner:       UTA
+match 11500056: GSW vs DEN
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    27 - 28
+    Q3 predicted scores:    22 - 27
+    Q4 predicted scores:    26 - 24
+    total predicted scores: 100 - 106
+    predicted winner:       DEN
+match 11500064: PHI vs WAS
+    Q1 predicted scores:    26 - 31
+    Q2 predicted scores:    27 - 30
+    Q3 predicted scores:    27 - 28
+    Q4 predicted scores:    35 - 26
+    total predicted scores: 115 - 115
+    predicted winner:       PHI
+match 11500087: CHI vs IND
+    Q1 predicted scores:    25 - 21
+    Q2 predicted scores:    27 - 22
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    30 - 24
+    total predicted scores: 107 - 91
+    predicted winner:       CHI
+match 11600001: TOR vs GSW
+    Q1 predicted scores:    24 - 24
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    22 - 21
+    Q4 predicted scores:    20 - 23
+    total predicted scores: 89 - 92
+    predicted winner:       GSW
+match 11600019: LAC vs TOR
+    Q1 predicted scores:    28 - 22
+    Q2 predicted scores:    24 - 25
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 99 - 94
+    predicted winner:       LAC
+match 11600021: PHI vs WAS
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    23 - 26
+    Q3 predicted scores:    24 - 26
+    Q4 predicted scores:    23 - 27
+    total predicted scores: 95 - 105
+    predicted winner:       WAS
+match 11600033: CLE vs PHI
+    Q1 predicted scores:    28 - 24
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    24 - 27
+    total predicted scores: 104 - 102
+    predicted winner:       CLE
+match 11600066: PHI vs DET
+    Q1 predicted scores:    20 - 25
+    Q2 predicted scores:    20 - 25
+    Q3 predicted scores:    20 - 24
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 82 - 98
+    predicted winner:       DET
+match 11600074: OKC vs MIN
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    28 - 20
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 105 - 92
+    predicted winner:       OKC
+match 11600089: BOS vs NYK
+    Q1 predicted scores:    22 - 29
+    Q2 predicted scores:    22 - 30
+    Q3 predicted scores:    23 - 28
+    Q4 predicted scores:    20 - 31
+    total predicted scores: 87 - 118
+    predicted winner:       NYK
+match 11600095: BKN vs NYK
+    Q1 predicted scores:    26 - 26
+    Q2 predicted scores:    26 - 29
+    Q3 predicted scores:    27 - 28
+    Q4 predicted scores:    27 - 28
+    total predicted scores: 106 - 111
+    predicted winner:       NYK
+match 21401021: PHI vs NYK
+    Q1 predicted scores:    25 - 22
+    Q2 predicted scores:    26 - 19
+    Q3 predicted scores:    24 - 20
+    Q4 predicted scores:    24 - 17
+    total predicted scores: 99 - 78
+    predicted winner:       PHI
+match 21401037: MIL vs CLE
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    24 - 28
+    Q3 predicted scores:    21 - 26
+    Q4 predicted scores:    17 - 26
+    total predicted scores: 87 - 105
+    predicted winner:       CLE
+match 21401042: SAC vs WAS
+    Q1 predicted scores:    28 - 21
+    Q2 predicted scores:    27 - 22
+    Q3 predicted scores:    26 - 21
+    Q4 predicted scores:    27 - 18
+    total predicted scores: 108 - 82
+    predicted winner:       SAC
+match 21401058: SAC vs PHI
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 27
+    total predicted scores: 102 - 101
+    predicted winner:       SAC
+match 21401076: WAS vs CHA
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    20 - 24
+    Q4 predicted scores:    20 - 17
+    total predicted scores: 87 - 90
+    predicted winner:       CHA
+match 21401079: NYK vs BOS
+    Q1 predicted scores:    21 - 23
+    Q2 predicted scores:    23 - 21
+    Q3 predicted scores:    22 - 21
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 89 - 89
+    predicted winner:       NYK
+match 21401084: SAS vs DAL
+    Q1 predicted scores:    25 - 20
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    24 - 20
+    Q4 predicted scores:    22 - 19
+    total predicted scores: 95 - 78
+    predicted winner:       SAS
+match 21401086: PHX vs POR
+    Q1 predicted scores:    19 - 20
+    Q2 predicted scores:    21 - 22
+    Q3 predicted scores:    19 - 20
+    Q4 predicted scores:    19 - 22
+    total predicted scores: 78 - 84
+    predicted winner:       POR
+match 21401106: MIN vs UTA
+    Q1 predicted scores:    20 - 26
+    Q2 predicted scores:    23 - 26
+    Q3 predicted scores:    20 - 25
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 85 - 101
+    predicted winner:       UTA
+match 21401109: DET vs ATL
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 102 - 92
+    predicted winner:       DET
+match 21401110: MIA vs SAS
+    Q1 predicted scores:    21 - 22
+    Q2 predicted scores:    20 - 24
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 82 - 92
+    predicted winner:       SAS
+match 21401114: WAS vs PHI
+    Q1 predicted scores:    30 - 20
+    Q2 predicted scores:    28 - 24
+    Q3 predicted scores:    30 - 22
+    Q4 predicted scores:    23 - 27
+    total predicted scores: 111 - 93
+    predicted winner:       WAS
+match 21401128: WAS vs NYK
+    Q1 predicted scores:    27 - 19
+    Q2 predicted scores:    22 - 22
+    Q3 predicted scores:    26 - 21
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 97 - 86
+    predicted winner:       WAS
+match 21401141: MEM vs WAS
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    21 - 22
+    Q3 predicted scores:    20 - 23
+    Q4 predicted scores:    19 - 22
+    total predicted scores: 81 - 91
+    predicted winner:       WAS
+match 21401153: LAL vs LAC
+    Q1 predicted scores:    21 - 29
+    Q2 predicted scores:    19 - 28
+    Q3 predicted scores:    19 - 30
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 81 - 111
+    predicted winner:       LAC
+match 21401159: LAC vs LAL
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 107 - 97
+    predicted winner:       LAC
+match 21401186: LAL vs MIN
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 103 - 95
+    predicted winner:       LAL
+match 21500004: ORL vs WAS
+    Q1 predicted scores:    23 - 21
+    Q2 predicted scores:    22 - 23
+    Q3 predicted scores:    20 - 21
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 87 - 87
+    predicted winner:       ORL
+match 21500014: PHX vs DAL
+    Q1 predicted scores:    22 - 26
+    Q2 predicted scores:    23 - 29
+    Q3 predicted scores:    21 - 27
+    Q4 predicted scores:    28 - 24
+    total predicted scores: 94 - 106
+    predicted winner:       DAL
+match 21500015: POR vs NOP
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    27 - 23
+    Q3 predicted scores:    26 - 21
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 107 - 90
+    predicted winner:       POR
+match 21500023: PHI vs UTA
+    Q1 predicted scores:    20 - 25
+    Q2 predicted scores:    18 - 26
+    Q3 predicted scores:    19 - 25
+    Q4 predicted scores:    21 - 24
+    total predicted scores: 78 - 100
+    predicted winner:       UTA
+match 21500038: LAC vs SAC
+    Q1 predicted scores:    29 - 24
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 108 - 103
+    predicted winner:       LAC
+match 21500059: LAL vs DEN
+    Q1 predicted scores:    26 - 29
+    Q2 predicted scores:    27 - 30
+    Q3 predicted scores:    25 - 31
+    Q4 predicted scores:    28 - 30
+    total predicted scores: 106 - 120
+    predicted winner:       DEN
+match 21500061: WAS vs SAS
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    28 - 25
+    total predicted scores: 104 - 94
+    predicted winner:       WAS
+match 21500072: DAL vs CHA
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    22 - 26
+    Q4 predicted scores:    22 - 25
+    total predicted scores: 92 - 105
+    predicted winner:       CHA
+match 21500084: SAC vs HOU
+    Q1 predicted scores:    26 - 29
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    25 - 28
+    Q4 predicted scores:    30 - 25
+    total predicted scores: 108 - 111
+    predicted winner:       HOU
+match 21500092: SAC vs GSW
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    21 - 24
+    Q3 predicted scores:    22 - 24
+    Q4 predicted scores:    21 - 27
+    total predicted scores: 88 - 101
+    predicted winner:       GSW
+match 21500094: CLE vs IND
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 103 - 97
+    predicted winner:       CLE
+match 21500102: DEN vs POR
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 107 - 98
+    predicted winner:       DEN
+match 21500124: MIA vs UTA
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    24 - 21
+    Q3 predicted scores:    19 - 23
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 91 - 86
+    predicted winner:       MIA
+match 21500145: NYK vs NOP
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    23 - 22
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 92 - 87
+    predicted winner:       NYK
+match 21500171: OKC vs NOP
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    28 - 23
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    29 - 25
+    total predicted scores: 108 - 99
+    predicted winner:       OKC
+match 21500176: CLE vs MIL
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 106 - 96
+    predicted winner:       CLE
+match 21500184: DAL vs UTA
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    26 - 21
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 102 - 93
+    predicted winner:       DAL
+match 21500190: IND vs MIL
+    Q1 predicted scores:    31 - 24
+    Q2 predicted scores:    31 - 24
+    Q3 predicted scores:    30 - 20
+    Q4 predicted scores:    30 - 19
+    total predicted scores: 122 - 87
+    predicted winner:       IND
+match 21500204: MIA vs NYK
+    Q1 predicted scores:    24 - 20
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    23 - 18
+    Q4 predicted scores:    24 - 17
+    total predicted scores: 95 - 74
+    predicted winner:       MIA
+match 21500215: CHA vs WAS
+    Q1 predicted scores:    27 - 20
+    Q2 predicted scores:    25 - 20
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    24 - 19
+    total predicted scores: 101 - 79
+    predicted winner:       CHA
+match 21500236: PHX vs GSW
+    Q1 predicted scores:    25 - 31
+    Q2 predicted scores:    27 - 30
+    Q3 predicted scores:    25 - 36
+    Q4 predicted scores:    29 - 28
+    total predicted scores: 106 - 125
+    predicted winner:       GSW
+match 21500258: MIL vs DEN
+    Q1 predicted scores:    26 - 19
+    Q2 predicted scores:    23 - 19
+    Q3 predicted scores:    24 - 18
+    Q4 predicted scores:    22 - 20
+    total predicted scores: 95 - 76
+    predicted winner:       MIL
+match 21500259: UTA vs GSW
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    23 - 27
+    Q4 predicted scores:    25 - 29
+    total predicted scores: 98 - 107
+    predicted winner:       GSW
+match 21500294: MIN vs POR
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    24 - 27
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 103 - 108
+    predicted winner:       POR
+match 21500298: LAC vs ORL
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    24 - 27
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 98 - 101
+    predicted winner:       ORL
+match 21500304: CHA vs DET
+    Q1 predicted scores:    27 - 19
+    Q2 predicted scores:    25 - 20
+    Q3 predicted scores:    26 - 21
+    Q4 predicted scores:    24 - 20
+    total predicted scores: 102 - 80
+    predicted winner:       CHA
+match 21500328: DAL vs ATL
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 94 - 97
+    predicted winner:       ATL
+match 21500332: SAC vs NYK
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 96 - 93
+    predicted winner:       SAC
+match 21500334: ORL vs CLE
+    Q1 predicted scores:    21 - 29
+    Q2 predicted scores:    20 - 28
+    Q3 predicted scores:    19 - 26
+    Q4 predicted scores:    20 - 24
+    total predicted scores: 80 - 107
+    predicted winner:       CLE
+match 21500339: NOP vs WAS
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    27 - 28
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    28 - 25
+    total predicted scores: 105 - 105
+    predicted winner:       NOP
+match 21500377: CHI vs MEM
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    25 - 21
+    Q3 predicted scores:    24 - 20
+    Q4 predicted scores:    23 - 20
+    total predicted scores: 96 - 84
+    predicted winner:       CHI
+match 21500379: SAS vs WAS
+    Q1 predicted scores:    29 - 24
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    29 - 23
+    Q4 predicted scores:    31 - 23
+    total predicted scores: 119 - 93
+    predicted winner:       SAS
+match 21500386: IND vs BKN
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 103 - 90
+    predicted winner:       IND
+match 21500390: MIA vs TOR
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    23 - 28
+    Q3 predicted scores:    23 - 30
+    Q4 predicted scores:    21 - 26
+    total predicted scores: 91 - 110
+    predicted winner:       TOR
+match 21500399: WAS vs CHA
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    27 - 25
+    total predicted scores: 108 - 99
+    predicted winner:       WAS
+match 21500412: NYK vs ORL
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    24 - 25
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 98 - 101
+    predicted winner:       ORL
+match 21500423: CHA vs BOS
+    Q1 predicted scores:    20 - 26
+    Q2 predicted scores:    22 - 23
+    Q3 predicted scores:    21 - 23
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 86 - 96
+    predicted winner:       BOS
+match 21500437: OKC vs CHI
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    22 - 24
+    Q4 predicted scores:    26 - 24
+    total predicted scores: 96 - 103
+    predicted winner:       CHI
+match 21500454: BOS vs NYK
+    Q1 predicted scores:    24 - 20
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    23 - 22
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 96 - 88
+    predicted winner:       BOS
+match 21500468: GSW vs SAC
+    Q1 predicted scores:    32 - 24
+    Q2 predicted scores:    30 - 25
+    Q3 predicted scores:    31 - 27
+    Q4 predicted scores:    27 - 24
+    total predicted scores: 120 - 100
+    predicted winner:       GSW
+match 21500470: HOU vs ATL
+    Q1 predicted scores:    28 - 30
+    Q2 predicted scores:    27 - 30
+    Q3 predicted scores:    26 - 30
+    Q4 predicted scores:    29 - 29
+    total predicted scores: 110 - 119
+    predicted winner:       ATL
+match 21500476: BOS vs LAL
+    Q1 predicted scores:    27 - 27
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    26 - 24
+    total predicted scores: 104 - 107
+    predicted winner:       LAL
+match 21500513: BKN vs BOS
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    23 - 27
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 93 - 102
+    predicted winner:       BOS
+match 21500534: OKC vs MEM
+    Q1 predicted scores:    27 - 20
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    27 - 23
+    total predicted scores: 107 - 90
+    predicted winner:       OKC
+match 21500561: HOU vs IND
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 96 - 98
+    predicted winner:       IND
+match 21500587: PHI vs CHI
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    23 - 26
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 99 - 103
+    predicted winner:       CHI
+match 21500588: ORL vs TOR
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    22 - 22
+    Q4 predicted scores:    20 - 24
+    total predicted scores: 92 - 96
+    predicted winner:       TOR
+match 21500591: UTA vs SAC
+    Q1 predicted scores:    21 - 26
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 99 - 98
+    predicted winner:       UTA
+match 21500595: BOS vs PHX
+    Q1 predicted scores:    31 - 25
+    Q2 predicted scores:    31 - 24
+    Q3 predicted scores:    30 - 26
+    Q4 predicted scores:    23 - 29
+    total predicted scores: 115 - 104
+    predicted winner:       BOS
+match 21500596: BKN vs POR
+    Q1 predicted scores:    26 - 30
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    26 - 29
+    Q4 predicted scores:    24 - 29
+    total predicted scores: 101 - 117
+    predicted winner:       POR
+match 21500618: MEM vs NOP
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    25 - 26
+    total predicted scores: 103 - 98
+    predicted winner:       MEM
+match 21500630: WAS vs MIA
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    27 - 22
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 21
+    total predicted scores: 104 - 89
+    predicted winner:       WAS
+match 21500632: NYK vs UTA
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    26 - 25
+    total predicted scores: 102 - 95
+    predicted winner:       NYK
+match 21500641: NOP vs DET
+    Q1 predicted scores:    30 - 24
+    Q2 predicted scores:    29 - 25
+    Q3 predicted scores:    29 - 23
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 112 - 95
+    predicted winner:       NOP
+match 21500648: NYK vs LAC
+    Q1 predicted scores:    20 - 29
+    Q2 predicted scores:    20 - 28
+    Q3 predicted scores:    22 - 30
+    Q4 predicted scores:    21 - 28
+    total predicted scores: 83 - 115
+    predicted winner:       LAC
+match 21500662: POR vs LAL
+    Q1 predicted scores:    31 - 23
+    Q2 predicted scores:    29 - 26
+    Q3 predicted scores:    32 - 23
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 116 - 98
+    predicted winner:       POR
+match 21500667: CLE vs MIN
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    28 - 29
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    28 - 29
+    total predicted scores: 109 - 110
+    predicted winner:       MIN
+match 21500671: NOP vs HOU
+    Q1 predicted scores:    27 - 28
+    Q2 predicted scores:    27 - 28
+    Q3 predicted scores:    26 - 29
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 105 - 113
+    predicted winner:       HOU
+match 21500687: ATL vs LAC
+    Q1 predicted scores:    22 - 19
+    Q2 predicted scores:    21 - 24
+    Q3 predicted scores:    21 - 19
+    Q4 predicted scores:    20 - 20
+    total predicted scores: 84 - 82
+    predicted winner:       ATL
+match 21500695: MEM vs MIL
+    Q1 predicted scores:    26 - 20
+    Q2 predicted scores:    26 - 19
+    Q3 predicted scores:    25 - 20
+    Q4 predicted scores:    21 - 20
+    total predicted scores: 98 - 79
+    predicted winner:       MEM
+match 21500697: LAL vs CHI
+    Q1 predicted scores:    22 - 29
+    Q2 predicted scores:    21 - 29
+    Q3 predicted scores:    21 - 28
+    Q4 predicted scores:    22 - 28
+    total predicted scores: 86 - 114
+    predicted winner:       CHI
+match 21500713: CLE vs SAS
+    Q1 predicted scores:    31 - 23
+    Q2 predicted scores:    28 - 25
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    26 - 26
+    total predicted scores: 112 - 96
+    predicted winner:       CLE
+match 21500719: POR vs MIN
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 96 - 91
+    predicted winner:       POR
+match 21500727: DEN vs TOR
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    28 - 22
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 107 - 89
+    predicted winner:       DEN
+match 21500732: PHX vs TOR
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    23 - 27
+    Q3 predicted scores:    24 - 21
+    Q4 predicted scores:    20 - 26
+    total predicted scores: 92 - 97
+    predicted winner:       TOR
+match 21500734: LAL vs MIN
+    Q1 predicted scores:    28 - 30
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    27 - 30
+    Q4 predicted scores:    24 - 29
+    total predicted scores: 106 - 118
+    predicted winner:       MIN
+match 21500737: BOS vs DET
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    25 - 21
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 103 - 90
+    predicted winner:       BOS
+match 21500741: DAL vs MIA
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    23 - 22
+    Q3 predicted scores:    23 - 22
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 91 - 91
+    predicted winner:       DAL
+match 21500742: SAS vs NOP
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    29 - 24
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 110 - 95
+    predicted winner:       SAS
+match 21500747: NOP vs LAL
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    23 - 25
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 96 - 95
+    predicted winner:       NOP
+match 21500748: POR vs TOR
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    26 - 29
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 104 - 112
+    predicted winner:       TOR
+match 21500750: ATL vs IND
+    Q1 predicted scores:    26 - 26
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    24 - 22
+    total predicted scores: 100 - 95
+    predicted winner:       ATL
+match 21500771: ORL vs ATL
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 101 - 94
+    predicted winner:       ORL
+match 21500773: BOS vs SAC
+    Q1 predicted scores:    33 - 30
+    Q2 predicted scores:    30 - 29
+    Q3 predicted scores:    30 - 29
+    Q4 predicted scores:    28 - 29
+    total predicted scores: 121 - 117
+    predicted winner:       BOS
+match 21500790: ORL vs SAS
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 97 - 94
+    predicted winner:       ORL
+match 21500831: CHI vs LAL
+    Q1 predicted scores:    31 - 26
+    Q2 predicted scores:    29 - 27
+    Q3 predicted scores:    30 - 24
+    Q4 predicted scores:    28 - 30
+    total predicted scores: 118 - 107
+    predicted winner:       CHI
+match 21500832: POR vs UTA
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    27 - 25
+    Q4 predicted scores:    30 - 26
+    total predicted scores: 111 - 103
+    predicted winner:       POR
+match 21500835: NYK vs TOR
+    Q1 predicted scores:    22 - 30
+    Q2 predicted scores:    22 - 29
+    Q3 predicted scores:    23 - 29
+    Q4 predicted scores:    22 - 30
+    total predicted scores: 89 - 118
+    predicted winner:       TOR
+match 21500841: WAS vs NOP
+    Q1 predicted scores:    27 - 19
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    27 - 20
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 104 - 85
+    predicted winner:       WAS
+match 21500844: POR vs BKN
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    26 - 27
+    Q3 predicted scores:    27 - 24
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 109 - 103
+    predicted winner:       POR
+match 21500850: CHI vs WAS
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    27 - 25
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 103 - 97
+    predicted winner:       CHI
+match 21500857: NOP vs OKC
+    Q1 predicted scores:    30 - 27
+    Q2 predicted scores:    30 - 28
+    Q3 predicted scores:    31 - 29
+    Q4 predicted scores:    30 - 30
+    total predicted scores: 121 - 114
+    predicted winner:       NOP
+match 21500917: CLE vs WAS
+    Q1 predicted scores:    27 - 20
+    Q2 predicted scores:    27 - 20
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    25 - 20
+    total predicted scores: 105 - 80
+    predicted winner:       CLE
+match 21500919: MIL vs MIN
+    Q1 predicted scores:    29 - 23
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    28 - 25
+    Q4 predicted scores:    21 - 24
+    total predicted scores: 104 - 97
+    predicted winner:       MIL
+match 21500937: CHA vs MIN
+    Q1 predicted scores:    27 - 27
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 105 - 100
+    predicted winner:       CHA
+match 21500962: LAL vs CLE
+    Q1 predicted scores:    25 - 31
+    Q2 predicted scores:    26 - 30
+    Q3 predicted scores:    26 - 30
+    Q4 predicted scores:    27 - 27
+    total predicted scores: 104 - 118
+    predicted winner:       CLE
+match 21500965: BOS vs HOU
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 100 - 94
+    predicted winner:       BOS
+match 21500987: LAL vs NYK
+    Q1 predicted scores:    19 - 23
+    Q2 predicted scores:    21 - 22
+    Q3 predicted scores:    20 - 24
+    Q4 predicted scores:    20 - 20
+    total predicted scores: 80 - 89
+    predicted winner:       NYK
+match 21500989: WAS vs DET
+    Q1 predicted scores:    32 - 20
+    Q2 predicted scores:    31 - 21
+    Q3 predicted scores:    31 - 21
+    Q4 predicted scores:    32 - 17
+    total predicted scores: 126 - 79
+    predicted winner:       WAS
+match 21501022: DET vs SAC
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    27 - 26
+    Q3 predicted scores:    27 - 27
+    Q4 predicted scores:    29 - 26
+    total predicted scores: 111 - 105
+    predicted winner:       DET
+match 21501039: PHI vs BOS
+    Q1 predicted scores:    24 - 31
+    Q2 predicted scores:    26 - 29
+    Q3 predicted scores:    26 - 29
+    Q4 predicted scores:    26 - 29
+    total predicted scores: 102 - 118
+    predicted winner:       BOS
+match 21501081: LAL vs DEN
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    24 - 29
+    Q3 predicted scores:    27 - 28
+    Q4 predicted scores:    25 - 30
+    total predicted scores: 101 - 114
+    predicted winner:       DEN
+match 21501082: BKN vs IND
+    Q1 predicted scores:    29 - 27
+    Q2 predicted scores:    28 - 28
+    Q3 predicted scores:    29 - 26
+    Q4 predicted scores:    29 - 27
+    total predicted scores: 115 - 108
+    predicted winner:       BKN
+match 21501119: UTA vs GSW
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    20 - 24
+    Q3 predicted scores:    21 - 25
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 83 - 98
+    predicted winner:       GSW
+match 21501130: NYK vs BKN
+    Q1 predicted scores:    25 - 21
+    Q2 predicted scores:    27 - 22
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    29 - 23
+    total predicted scores: 106 - 88
+    predicted winner:       NYK
+match 21501134: UTA vs MIN
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    22 - 19
+    total predicted scores: 97 - 85
+    predicted winner:       UTA
+match 21501138: PHI vs IND
+    Q1 predicted scores:    23 - 29
+    Q2 predicted scores:    25 - 30
+    Q3 predicted scores:    25 - 28
+    Q4 predicted scores:    25 - 30
+    total predicted scores: 98 - 117
+    predicted winner:       IND
+match 21501143: BKN vs NOP
+    Q1 predicted scores:    21 - 26
+    Q2 predicted scores:    22 - 28
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    22 - 26
+    total predicted scores: 86 - 104
+    predicted winner:       NOP
+match 21501156: TOR vs CHA
+    Q1 predicted scores:    23 - 20
+    Q2 predicted scores:    23 - 20
+    Q3 predicted scores:    24 - 22
+    Q4 predicted scores:    24 - 22
+    total predicted scores: 94 - 84
+    predicted winner:       TOR
+match 21501176: SAC vs MIN
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    24 - 27
+    Q3 predicted scores:    23 - 27
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 95 - 104
+    predicted winner:       MIN
+match 21501177: GSW vs SAS
+    Q1 predicted scores:    30 - 24
+    Q2 predicted scores:    28 - 26
+    Q3 predicted scores:    31 - 23
+    Q4 predicted scores:    23 - 26
+    total predicted scores: 112 - 99
+    predicted winner:       GSW
+match 21501183: TOR vs IND
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    27 - 23
+    Q3 predicted scores:    27 - 23
+    Q4 predicted scores:    27 - 26
+    total predicted scores: 106 - 95
+    predicted winner:       TOR
+match 21501188: ATL vs BOS
+    Q1 predicted scores:    31 - 26
+    Q2 predicted scores:    31 - 25
+    Q3 predicted scores:    31 - 26
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 120 - 106
+    predicted winner:       ATL
+match 21501207: MIN vs HOU
+    Q1 predicted scores:    28 - 31
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    27 - 31
+    Q4 predicted scores:    26 - 28
+    total predicted scores: 106 - 119
+    predicted winner:       HOU
+match 21501230: POR vs DEN
+    Q1 predicted scores:    26 - 27
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    25 - 25
+    Q4 predicted scores:    24 - 21
+    total predicted scores: 100 - 96
+    predicted winner:       POR
+match 21600006: BOS vs BKN
+    Q1 predicted scores:    32 - 25
+    Q2 predicted scores:    30 - 27
+    Q3 predicted scores:    30 - 27
+    Q4 predicted scores:    26 - 33
+    total predicted scores: 118 - 112
+    predicted winner:       BOS
+match 21600023: DAL vs HOU
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    23 - 25
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 94 - 99
+    predicted winner:       HOU
+match 21600028: NYK vs MEM
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    27 - 27
+    Q3 predicted scores:    27 - 24
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 107 - 102
+    predicted winner:       NYK
+match 21600036: PHX vs GSW
+    Q1 predicted scores:    24 - 26
+    Q2 predicted scores:    25 - 26
+    Q3 predicted scores:    24 - 25
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 98 - 102
+    predicted winner:       GSW
+match 21600037: MIA vs SAS
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    23 - 26
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 97 - 101
+    predicted winner:       SAS
+match 21600072: BKN vs CHA
+    Q1 predicted scores:    25 - 24
+    Q2 predicted scores:    22 - 24
+    Q3 predicted scores:    21 - 26
+    Q4 predicted scores:    23 - 24
+    total predicted scores: 91 - 98
+    predicted winner:       CHA
+match 21600092: LAL vs PHX
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    29 - 24
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    28 - 24
+    total predicted scores: 110 - 98
+    predicted winner:       LAL
+match 21600099: GSW vs NOP
+    Q1 predicted scores:    30 - 27
+    Q2 predicted scores:    31 - 26
+    Q3 predicted scores:    30 - 24
+    Q4 predicted scores:    29 - 27
+    total predicted scores: 120 - 104
+    predicted winner:       GSW
+match 21600124: ORL vs UTA
+    Q1 predicted scores:    18 - 25
+    Q2 predicted scores:    19 - 21
+    Q3 predicted scores:    19 - 24
+    Q4 predicted scores:    18 - 19
+    total predicted scores: 74 - 89
+    predicted winner:       UTA
+match 21600136: MIA vs UTA
+    Q1 predicted scores:    24 - 22
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    20 - 27
+    Q4 predicted scores:    27 - 21
+    total predicted scores: 95 - 94
+    predicted winner:       MIA
+match 21600142: MIN vs LAL
+    Q1 predicted scores:    31 - 24
+    Q2 predicted scores:    31 - 24
+    Q3 predicted scores:    32 - 24
+    Q4 predicted scores:    31 - 23
+    total predicted scores: 125 - 95
+    predicted winner:       MIN
+match 21600149: HOU vs PHI
+    Q1 predicted scores:    30 - 20
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    27 - 21
+    Q4 predicted scores:    26 - 24
+    total predicted scores: 113 - 88
+    predicted winner:       HOU
+match 21600158: PHI vs WAS
+    Q1 predicted scores:    28 - 25
+    Q2 predicted scores:    28 - 23
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    28 - 24
+    total predicted scores: 110 - 96
+    predicted winner:       PHI
+match 21600162: NYK vs DET
+    Q1 predicted scores:    29 - 27
+    Q2 predicted scores:    29 - 24
+    Q3 predicted scores:    29 - 24
+    Q4 predicted scores:    25 - 24
+    total predicted scores: 112 - 99
+    predicted winner:       NYK
+match 21600166: DEN vs PHX
+    Q1 predicted scores:    28 - 24
+    Q2 predicted scores:    28 - 25
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    30 - 28
+    total predicted scores: 113 - 103
+    predicted winner:       DEN
+match 21600167: LAC vs MEM
+    Q1 predicted scores:    27 - 27
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    25 - 30
+    total predicted scores: 103 - 113
+    predicted winner:       MEM
+match 21600170: MIA vs MIL
+    Q1 predicted scores:    25 - 20
+    Q2 predicted scores:    24 - 19
+    Q3 predicted scores:    24 - 18
+    Q4 predicted scores:    25 - 17
+    total predicted scores: 98 - 74
+    predicted winner:       MIA
+match 21600176: IND vs PHX
+    Q1 predicted scores:    23 - 27
+    Q2 predicted scores:    23 - 30
+    Q3 predicted scores:    24 - 29
+    Q4 predicted scores:    20 - 30
+    total predicted scores: 90 - 116
+    predicted winner:       PHX
+match 21600177: NOP vs POR
+    Q1 predicted scores:    31 - 25
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    29 - 24
+    Q4 predicted scores:    26 - 26
+    total predicted scores: 116 - 98
+    predicted winner:       NOP
+match 21600189: PHI vs PHX
+    Q1 predicted scores:    31 - 25
+    Q2 predicted scores:    31 - 24
+    Q3 predicted scores:    30 - 26
+    Q4 predicted scores:    24 - 28
+    total predicted scores: 116 - 103
+    predicted winner:       PHI
+match 21600207: LAC vs TOR
+    Q1 predicted scores:    28 - 25
+    Q2 predicted scores:    29 - 26
+    Q3 predicted scores:    28 - 28
+    Q4 predicted scores:    30 - 31
+    total predicted scores: 115 - 110
+    predicted winner:       LAC
+match 21600214: ORL vs PHX
+    Q1 predicted scores:    20 - 22
+    Q2 predicted scores:    21 - 24
+    Q3 predicted scores:    21 - 22
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 84 - 91
+    predicted winner:       PHX
+match 21600215: CLE vs POR
+    Q1 predicted scores:    33 - 31
+    Q2 predicted scores:    31 - 30
+    Q3 predicted scores:    32 - 30
+    Q4 predicted scores:    26 - 32
+    total predicted scores: 122 - 123
+    predicted winner:       POR
+match 21600218: DET vs MIA
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    25 - 22
+    Q3 predicted scores:    26 - 19
+    Q4 predicted scores:    22 - 21
+    total predicted scores: 100 - 84
+    predicted winner:       DET
+match 21600219: HOU vs TOR
+    Q1 predicted scores:    25 - 30
+    Q2 predicted scores:    24 - 28
+    Q3 predicted scores:    26 - 29
+    Q4 predicted scores:    24 - 29
+    total predicted scores: 99 - 116
+    predicted winner:       TOR
+match 21600236: PHX vs MIN
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    22 - 23
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    20 - 26
+    total predicted scores: 84 - 97
+    predicted winner:       MIN
+match 21600242: OKC vs DET
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 103 - 92
+    predicted winner:       OKC
+match 21600250: DAL vs NOP
+    Q1 predicted scores:    24 - 22
+    Q2 predicted scores:    22 - 20
+    Q3 predicted scores:    22 - 18
+    Q4 predicted scores:    21 - 18
+    total predicted scores: 89 - 78
+    predicted winner:       DAL
+match 21600257: MEM vs CHA
+    Q1 predicted scores:    22 - 24
+    Q2 predicted scores:    21 - 26
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 85 - 99
+    predicted winner:       CHA
+match 21600260: CHA vs DET
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    21 - 27
+    Q3 predicted scores:    21 - 27
+    Q4 predicted scores:    19 - 27
+    total predicted scores: 85 - 106
+    predicted winner:       DET
+match 21600273: DEN vs MIA
+    Q1 predicted scores:    25 - 29
+    Q2 predicted scores:    22 - 25
+    Q3 predicted scores:    21 - 27
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 89 - 106
+    predicted winner:       MIA
+match 21600279: CLE vs LAC
+    Q1 predicted scores:    22 - 26
+    Q2 predicted scores:    25 - 28
+    Q3 predicted scores:    21 - 29
+    Q4 predicted scores:    24 - 28
+    total predicted scores: 92 - 111
+    predicted winner:       LAC
+match 21600286: CHI vs CLE
+    Q1 predicted scores:    30 - 26
+    Q2 predicted scores:    29 - 25
+    Q3 predicted scores:    30 - 26
+    Q4 predicted scores:    27 - 24
+    total predicted scores: 116 - 101
+    predicted winner:       CHI
+match 21600289: SAS vs WAS
+    Q1 predicted scores:    27 - 27
+    Q2 predicted scores:    27 - 28
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    29 - 25
+    total predicted scores: 108 - 104
+    predicted winner:       SAS
+match 21600304: PHI vs DEN
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    24 - 27
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 96 - 103
+    predicted winner:       DEN
+match 21600314: GSW vs IND
+    Q1 predicted scores:    32 - 24
+    Q2 predicted scores:    32 - 25
+    Q3 predicted scores:    31 - 27
+    Q4 predicted scores:    29 - 22
+    total predicted scores: 124 - 98
+    predicted winner:       GSW
+match 21600328: DAL vs SAC
+    Q1 predicted scores:    21 - 30
+    Q2 predicted scores:    22 - 29
+    Q3 predicted scores:    21 - 30
+    Q4 predicted scores:    22 - 29
+    total predicted scores: 86 - 118
+    predicted winner:       SAC
+match 21600337: CHA vs ORL
+    Q1 predicted scores:    28 - 20
+    Q2 predicted scores:    29 - 22
+    Q3 predicted scores:    29 - 21
+    Q4 predicted scores:    24 - 21
+    total predicted scores: 110 - 84
+    predicted winner:       CHA
+match 21600341: OKC vs HOU
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    22 - 27
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 97 - 99
+    predicted winner:       HOU
+match 21600348: IND vs POR
+    Q1 predicted scores:    31 - 28
+    Q2 predicted scores:    29 - 26
+    Q3 predicted scores:    30 - 27
+    Q4 predicted scores:    30 - 28
+    total predicted scores: 120 - 109
+    predicted winner:       IND
+match 21600351: MEM vs GSW
+    Q1 predicted scores:    28 - 22
+    Q2 predicted scores:    27 - 23
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    26 - 23
+    total predicted scores: 107 - 88
+    predicted winner:       MEM
+match 21600364: HOU vs BKN
+    Q1 predicted scores:    29 - 28
+    Q2 predicted scores:    29 - 27
+    Q3 predicted scores:    27 - 28
+    Q4 predicted scores:    28 - 30
+    total predicted scores: 113 - 113
+    predicted winner:       HOU
+match 21600407: MEM vs UTA
+    Q1 predicted scores:    18 - 22
+    Q2 predicted scores:    20 - 18
+    Q3 predicted scores:    19 - 22
+    Q4 predicted scores:    18 - 20
+    total predicted scores: 75 - 82
+    predicted winner:       UTA
+match 21600410: MIA vs BOS
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    22 - 26
+    Q4 predicted scores:    23 - 26
+    total predicted scores: 95 - 103
+    predicted winner:       BOS
+match 21600425: HOU vs SAS
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    24 - 26
+    Q3 predicted scores:    27 - 23
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 98 - 99
+    predicted winner:       SAS
+match 21600432: CHI vs WAS
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    24 - 29
+    Q3 predicted scores:    22 - 26
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 96 - 105
+    predicted winner:       WAS
+match 21600437: BKN vs GSW
+    Q1 predicted scores:    24 - 30
+    Q2 predicted scores:    23 - 28
+    Q3 predicted scores:    21 - 31
+    Q4 predicted scores:    20 - 27
+    total predicted scores: 88 - 116
+    predicted winner:       GSW
+match 21600440: IND vs BOS
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    22 - 27
+    Q4 predicted scores:    26 - 28
+    total predicted scores: 98 - 102
+    predicted winner:       BOS
+match 21600450: MIN vs SAC
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    25 - 26
+    total predicted scores: 101 - 106
+    predicted winner:       SAC
+match 21600470: LAC vs DEN
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    25 - 29
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 101 - 106
+    predicted winner:       DEN
+match 21600481: NOP vs LAC
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    23 - 25
+    total predicted scores: 98 - 96
+    predicted winner:       NOP
+match 21600483: DEN vs MIN
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    27 - 27
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 104 - 102
+    predicted winner:       DEN
+match 21600488: CLE vs BOS
+    Q1 predicted scores:    33 - 27
+    Q2 predicted scores:    30 - 30
+    Q3 predicted scores:    32 - 28
+    Q4 predicted scores:    22 - 32
+    total predicted scores: 117 - 117
+    predicted winner:       CLE
+match 21600496: HOU vs LAC
+    Q1 predicted scores:    32 - 27
+    Q2 predicted scores:    33 - 26
+    Q3 predicted scores:    32 - 28
+    Q4 predicted scores:    32 - 29
+    total predicted scores: 129 - 110
+    predicted winner:       HOU
+match 21600504: HOU vs NYK
+    Q1 predicted scores:    32 - 26
+    Q2 predicted scores:    31 - 30
+    Q3 predicted scores:    32 - 27
+    Q4 predicted scores:    29 - 31
+    total predicted scores: 124 - 114
+    predicted winner:       HOU
+match 21600508: ATL vs SAS
+    Q1 predicted scores:    25 - 27
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    27 - 22
+    total predicted scores: 104 - 101
+    predicted winner:       ATL
+match 21600517: CHI vs CHA
+    Q1 predicted scores:    30 - 27
+    Q2 predicted scores:    29 - 26
+    Q3 predicted scores:    30 - 27
+    Q4 predicted scores:    28 - 29
+    total predicted scores: 117 - 109
+    predicted winner:       CHI
+match 21600522: BOS vs UTA
+    Q1 predicted scores:    30 - 25
+    Q2 predicted scores:    28 - 25
+    Q3 predicted scores:    31 - 25
+    Q4 predicted scores:    28 - 28
+    total predicted scores: 117 - 103
+    predicted winner:       BOS
+match 21600541: DAL vs PHX
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    22 - 26
+    Q3 predicted scores:    23 - 21
+    Q4 predicted scores:    22 - 26
+    total predicted scores: 91 - 96
+    predicted winner:       PHX
+match 21600542: POR vs LAL
+    Q1 predicted scores:    31 - 23
+    Q2 predicted scores:    30 - 27
+    Q3 predicted scores:    31 - 22
+    Q4 predicted scores:    30 - 26
+    total predicted scores: 122 - 98
+    predicted winner:       POR
+match 21600544: WAS vs MIN
+    Q1 predicted scores:    30 - 26
+    Q2 predicted scores:    29 - 24
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    27 - 25
+    total predicted scores: 112 - 100
+    predicted winner:       WAS
+match 21600545: ORL vs HOU
+    Q1 predicted scores:    23 - 26
+    Q2 predicted scores:    23 - 27
+    Q3 predicted scores:    24 - 25
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 91 - 101
+    predicted winner:       HOU
+match 21600546: BOS vs PHI
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    28 - 24
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    28 - 28
+    total predicted scores: 110 - 104
+    predicted winner:       BOS
+match 21600551: SAC vs LAC
+    Q1 predicted scores:    26 - 29
+    Q2 predicted scores:    24 - 28
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 101 - 106
+    predicted winner:       LAC
+match 41400121: CHI vs MIL
+    Q1 predicted scores:    27 - 20
+    Q2 predicted scores:    25 - 23
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    25 - 23
+    total predicted scores: 103 - 88
+    predicted winner:       CHI
+match 41400161: LAC vs SAS
+    Q1 predicted scores:    27 - 20
+    Q2 predicted scores:    26 - 23
+    Q3 predicted scores:    26 - 22
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 103 - 91
+    predicted winner:       LAC
+match 41400314: HOU vs GSW
+    Q1 predicted scores:    34 - 25
+    Q2 predicted scores:    31 - 30
+    Q3 predicted scores:    31 - 27
+    Q4 predicted scores:    30 - 28
+    total predicted scores: 126 - 110
+    predicted winner:       HOU
+match 41500121: MIA vs CHA
+    Q1 predicted scores:    32 - 23
+    Q2 predicted scores:    29 - 25
+    Q3 predicted scores:    30 - 21
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 116 - 91
+    predicted winner:       MIA
+match 41500131: ATL vs BOS
+    Q1 predicted scores:    27 - 21
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 101 - 93
+    predicted winner:       ATL
+match 41500134: BOS vs ATL
+    Q1 predicted scores:    24 - 20
+    Q2 predicted scores:    23 - 23
+    Q3 predicted scores:    25 - 21
+    Q4 predicted scores:    22 - 22
+    total predicted scores: 94 - 86
+    predicted winner:       BOS
+match 41500145: GSW vs HOU
+    Q1 predicted scores:    30 - 20
+    Q2 predicted scores:    29 - 19
+    Q3 predicted scores:    30 - 21
+    Q4 predicted scores:    26 - 19
+    total predicted scores: 115 - 79
+    predicted winner:       GSW
+match 41500153: MEM vs SAS
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    22 - 27
+    Q3 predicted scores:    20 - 25
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 85 - 100
+    predicted winner:       SAS
+match 41500204: ATL vs CLE
+    Q1 predicted scores:    26 - 25
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 101 - 95
+    predicted winner:       ATL
+match 41500213: MIA vs TOR
+    Q1 predicted scores:    21 - 24
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    22 - 23
+    Q4 predicted scores:    22 - 23
+    total predicted scores: 89 - 94
+    predicted winner:       TOR
+match 41500231: SAS vs OKC
+    Q1 predicted scores:    31 - 23
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    31 - 24
+    Q4 predicted scores:    22 - 26
+    total predicted scores: 114 - 96
+    predicted winner:       SAS
+match 41500311: GSW vs OKC
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    26 - 28
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 101 - 105
+    predicted winner:       OKC
+match 41500315: GSW vs OKC
+    Q1 predicted scores:    30 - 27
+    Q2 predicted scores:    31 - 26
+    Q3 predicted scores:    30 - 27
+    Q4 predicted scores:    28 - 28
+    total predicted scores: 119 - 108
+    predicted winner:       GSW
+match 21600598: POR vs ORL
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    26 - 28
+    Q3 predicted scores:    26 - 28
+    Q4 predicted scores:    27 - 29
+    total predicted scores: 103 - 112
+    predicted winner:       ORL
+match 21600622: BKN vs TOR
+    Q1 predicted scores:    25 - 30
+    Q2 predicted scores:    28 - 29
+    Q3 predicted scores:    27 - 31
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 108 - 116
+    predicted winner:       TOR
+match 21600629: CHA vs POR
+    Q1 predicted scores:    29 - 21
+    Q2 predicted scores:    30 - 22
+    Q3 predicted scores:    29 - 21
+    Q4 predicted scores:    28 - 17
+    total predicted scores: 116 - 81
+    predicted winner:       CHA
+match 21600631: NOP vs ORL
+    Q1 predicted scores:    30 - 24
+    Q2 predicted scores:    31 - 24
+    Q3 predicted scores:    30 - 25
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 115 - 97
+    predicted winner:       NOP
+match 21600663: TOR vs PHX
+    Q1 predicted scores:    25 - 28
+    Q2 predicted scores:    25 - 26
+    Q3 predicted scores:    24 - 27
+    Q4 predicted scores:    25 - 31
+    total predicted scores: 99 - 112
+    predicted winner:       PHX
+match 21600668: MIA vs GSW
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    27 - 23
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 102 - 98
+    predicted winner:       MIA
+match 21600678: DEN vs UTA
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    24 - 24
+    total predicted scores: 99 - 93
+    predicted winner:       DEN
+match 21600685: MEM vs TOR
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    24 - 23
+    total predicted scores: 100 - 94
+    predicted winner:       MEM
+match 21600690: OKC vs DAL
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    26 - 24
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    27 - 23
+    total predicted scores: 103 - 92
+    predicted winner:       OKC
+match 21600705: MIA vs DET
+    Q1 predicted scores:    27 - 24
+    Q2 predicted scores:    27 - 24
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 107 - 96
+    predicted winner:       MIA
+match 21600713: IND vs HOU
+    Q1 predicted scores:    31 - 23
+    Q2 predicted scores:    30 - 24
+    Q3 predicted scores:    31 - 24
+    Q4 predicted scores:    30 - 27
+    total predicted scores: 122 - 98
+    predicted winner:       IND
+match 21600719: MIA vs BKN
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    25 - 24
+    Q3 predicted scores:    27 - 22
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 102 - 92
+    predicted winner:       MIA
+match 21600729: LAL vs DEN
+    Q1 predicted scores:    31 - 29
+    Q2 predicted scores:    30 - 30
+    Q3 predicted scores:    30 - 27
+    Q4 predicted scores:    29 - 31
+    total predicted scores: 120 - 117
+    predicted winner:       LAL
+match 21600733: BKN vs NYK
+    Q1 predicted scores:    23 - 24
+    Q2 predicted scores:    22 - 24
+    Q3 predicted scores:    22 - 26
+    Q4 predicted scores:    17 - 28
+    total predicted scores: 84 - 102
+    predicted winner:       NYK
+match 21600743: HOU vs ATL
+    Q1 predicted scores:    25 - 29
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    25 - 29
+    Q4 predicted scores:    26 - 31
+    total predicted scores: 102 - 114
+    predicted winner:       ATL
+match 21600752: DEN vs MIL
+    Q1 predicted scores:    31 - 30
+    Q2 predicted scores:    31 - 29
+    Q3 predicted scores:    31 - 28
+    Q4 predicted scores:    28 - 29
+    total predicted scores: 121 - 116
+    predicted winner:       DEN
+match 21600756: ATL vs ORL
+    Q1 predicted scores:    30 - 22
+    Q2 predicted scores:    30 - 21
+    Q3 predicted scores:    30 - 19
+    Q4 predicted scores:    27 - 23
+    total predicted scores: 117 - 85
+    predicted winner:       ATL
+match 21600777: MEM vs SAS
+    Q1 predicted scores:    22 - 19
+    Q2 predicted scores:    22 - 18
+    Q3 predicted scores:    24 - 17
+    Q4 predicted scores:    22 - 17
+    total predicted scores: 90 - 71
+    predicted winner:       MEM
+match 21600787: MIL vs MIA
+    Q1 predicted scores:    20 - 27
+    Q2 predicted scores:    23 - 24
+    Q3 predicted scores:    20 - 25
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 85 - 100
+    predicted winner:       MIA
+match 21600793: SAC vs BOS
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    26 - 20
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 105 - 85
+    predicted winner:       SAC
+match 21600827: DEN vs GSW
+    Q1 predicted scores:    33 - 26
+    Q2 predicted scores:    32 - 29
+    Q3 predicted scores:    31 - 27
+    Q4 predicted scores:    22 - 28
+    total predicted scores: 118 - 110
+    predicted winner:       DEN
+match 21600829: PHX vs NOP
+    Q1 predicted scores:    22 - 23
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    26 - 28
+    total predicted scores: 99 - 102
+    predicted winner:       NOP
+match 21600837: TOR vs CHA
+    Q1 predicted scores:    23 - 23
+    Q2 predicted scores:    22 - 20
+    Q3 predicted scores:    20 - 21
+    Q4 predicted scores:    23 - 19
+    total predicted scores: 88 - 83
+    predicted winner:       TOR
+match 21600843: UTA vs POR
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    26 - 21
+    Q3 predicted scores:    28 - 21
+    Q4 predicted scores:    27 - 23
+    total predicted scores: 108 - 88
+    predicted winner:       UTA
+match 21600846: LAC vs ATL
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    24 - 20
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 98 - 85
+    predicted winner:       LAC
+match 21600855: SAC vs DEN
+    Q1 predicted scores:    30 - 26
+    Q2 predicted scores:    31 - 24
+    Q3 predicted scores:    29 - 26
+    Q4 predicted scores:    27 - 22
+    total predicted scores: 117 - 98
+    predicted winner:       SAC
+match 21600865: LAC vs SAS
+    Q1 predicted scores:    25 - 25
+    Q2 predicted scores:    24 - 29
+    Q3 predicted scores:    23 - 25
+    Q4 predicted scores:    24 - 26
+    total predicted scores: 96 - 105
+    predicted winner:       SAS
+match 21600866: SAC vs CHA
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    19 - 27
+    Q3 predicted scores:    20 - 26
+    Q4 predicted scores:    20 - 23
+    total predicted scores: 80 - 101
+    predicted winner:       CHA
+match 21600912: MIL vs LAC
+    Q1 predicted scores:    28 - 23
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    27 - 23
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 104 - 95
+    predicted winner:       MIL
+match 21600917: NOP vs SAS
+    Q1 predicted scores:    21 - 23
+    Q2 predicted scores:    22 - 23
+    Q3 predicted scores:    20 - 20
+    Q4 predicted scores:    21 - 23
+    total predicted scores: 84 - 89
+    predicted winner:       SAS
+match 21600921: MIA vs CLE
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    30 - 25
+    Q3 predicted scores:    30 - 23
+    Q4 predicted scores:    26 - 22
+    total predicted scores: 116 - 93
+    predicted winner:       MIA
+match 21600922: CHI vs LAC
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    23 - 26
+    Q3 predicted scores:    20 - 27
+    Q4 predicted scores:    23 - 22
+    total predicted scores: 90 - 98
+    predicted winner:       LAC
+match 21600941: CHA vs IND
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    25 - 23
+    Q4 predicted scores:    26 - 18
+    total predicted scores: 102 - 86
+    predicted winner:       CHA
+match 21600952: MIL vs NYK
+    Q1 predicted scores:    26 - 24
+    Q2 predicted scores:    26 - 22
+    Q3 predicted scores:    25 - 25
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 102 - 93
+    predicted winner:       MIL
+match 21600973: OKC vs UTA
+    Q1 predicted scores:    28 - 21
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    28 - 26
+    Q4 predicted scores:    22 - 29
+    total predicted scores: 104 - 102
+    predicted winner:       OKC
+match 21600985: BOS vs CHI
+    Q1 predicted scores:    26 - 20
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    22 - 19
+    total predicted scores: 98 - 81
+    predicted winner:       BOS
+match 21600988: PHX vs POR
+    Q1 predicted scores:    24 - 27
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    21 - 26
+    Q4 predicted scores:    26 - 28
+    total predicted scores: 97 - 107
+    predicted winner:       POR
+match 21601006: BOS vs MIN
+    Q1 predicted scores:    31 - 26
+    Q2 predicted scores:    28 - 26
+    Q3 predicted scores:    30 - 24
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 117 - 102
+    predicted winner:       BOS
+match 21601018: DEN vs LAC
+    Q1 predicted scores:    31 - 27
+    Q2 predicted scores:    30 - 27
+    Q3 predicted scores:    31 - 28
+    Q4 predicted scores:    24 - 30
+    total predicted scores: 116 - 112
+    predicted winner:       DEN
+match 21601029: ATL vs POR
+    Q1 predicted scores:    23 - 31
+    Q2 predicted scores:    26 - 28
+    Q3 predicted scores:    21 - 28
+    Q4 predicted scores:    21 - 26
+    total predicted scores: 91 - 113
+    predicted winner:       POR
+match 21601038: DET vs PHX
+    Q1 predicted scores:    28 - 21
+    Q2 predicted scores:    28 - 24
+    Q3 predicted scores:    26 - 23
+    Q4 predicted scores:    29 - 23
+    total predicted scores: 111 - 91
+    predicted winner:       DET
+match 21601041: MIA vs POR
+    Q1 predicted scores:    24 - 28
+    Q2 predicted scores:    25 - 26
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    24 - 30
+    total predicted scores: 99 - 109
+    predicted winner:       POR
+match 21601046: IND vs UTA
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    26 - 27
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 104 - 102
+    predicted winner:       IND
+match 21601054: NOP vs MEM
+    Q1 predicted scores:    25 - 22
+    Q2 predicted scores:    24 - 20
+    Q3 predicted scores:    24 - 18
+    Q4 predicted scores:    23 - 19
+    total predicted scores: 96 - 79
+    predicted winner:       NOP
+match 21601062: OKC vs PHI
+    Q1 predicted scores:    30 - 24
+    Q2 predicted scores:    30 - 23
+    Q3 predicted scores:    30 - 23
+    Q4 predicted scores:    28 - 25
+    total predicted scores: 118 - 95
+    predicted winner:       OKC
+match 21601096: LAL vs POR
+    Q1 predicted scores:    21 - 25
+    Q2 predicted scores:    21 - 24
+    Q3 predicted scores:    21 - 26
+    Q4 predicted scores:    21 - 22
+    total predicted scores: 84 - 97
+    predicted winner:       POR
+match 21601105: BKN vs PHI
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    25 - 25
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 101 - 105
+    predicted winner:       PHI
+match 21601127: CHA vs DEN
+    Q1 predicted scores:    31 - 31
+    Q2 predicted scores:    29 - 28
+    Q3 predicted scores:    30 - 30
+    Q4 predicted scores:    31 - 28
+    total predicted scores: 121 - 117
+    predicted winner:       CHA
+match 21601136: GSW vs HOU
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    28 - 23
+    Q3 predicted scores:    29 - 24
+    Q4 predicted scores:    29 - 23
+    total predicted scores: 116 - 93
+    predicted winner:       GSW
+match 21601138: CHI vs ATL
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    26 - 26
+    Q3 predicted scores:    26 - 27
+    Q4 predicted scores:    27 - 25
+    total predicted scores: 106 - 103
+    predicted winner:       CHI
+match 21601143: LAL vs MEM
+    Q1 predicted scores:    26 - 26
+    Q2 predicted scores:    27 - 27
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 104 - 100
+    predicted winner:       LAL
+match 21601146: NOP vs CHI
+    Q1 predicted scores:    27 - 30
+    Q2 predicted scores:    27 - 29
+    Q3 predicted scores:    26 - 28
+    Q4 predicted scores:    29 - 30
+    total predicted scores: 109 - 117
+    predicted winner:       CHI
+match 21601177: ATL vs BOS
+    Q1 predicted scores:    28 - 27
+    Q2 predicted scores:    31 - 27
+    Q3 predicted scores:    27 - 28
+    Q4 predicted scores:    27 - 27
+    total predicted scores: 113 - 109
+    predicted winner:       ATL
+match 21601183: DAL vs SAS
+    Q1 predicted scores:    23 - 29
+    Q2 predicted scores:    21 - 28
+    Q3 predicted scores:    19 - 25
+    Q4 predicted scores:    18 - 26
+    total predicted scores: 81 - 108
+    predicted winner:       SAS
+match 21601194: POR vs UTA
+    Q1 predicted scores:    25 - 22
+    Q2 predicted scores:    25 - 19
+    Q3 predicted scores:    27 - 21
+    Q4 predicted scores:    23 - 23
+    total predicted scores: 100 - 85
+    predicted winner:       POR
+match 21601199: PHX vs DAL
+    Q1 predicted scores:    32 - 26
+    Q2 predicted scores:    30 - 27
+    Q3 predicted scores:    32 - 27
+    Q4 predicted scores:    29 - 30
+    total predicted scores: 123 - 110
+    predicted winner:       PHX
+match 21601211: GSW vs UTA
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    23 - 28
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    22 - 26
+    total predicted scores: 98 - 104
+    predicted winner:       UTA
+match 21601221: MIA vs WAS
+    Q1 predicted scores:    27 - 22
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    27 - 25
+    Q4 predicted scores:    23 - 25
+    total predicted scores: 104 - 97
+    predicted winner:       MIA
+match 21601223: MEM vs DAL
+    Q1 predicted scores:    25 - 24
+    Q2 predicted scores:    22 - 26
+    Q3 predicted scores:    24 - 24
+    Q4 predicted scores:    20 - 27
+    total predicted scores: 91 - 101
+    predicted winner:       DAL
+match 21601227: UTA vs SAS
+    Q1 predicted scores:    27 - 23
+    Q2 predicted scores:    24 - 22
+    Q3 predicted scores:    25 - 26
+    Q4 predicted scores:    24 - 25
+    total predicted scores: 100 - 96
+    predicted winner:       UTA
+match 21601229: GSW vs LAL
+    Q1 predicted scores:    31 - 20
+    Q2 predicted scores:    24 - 24
+    Q3 predicted scores:    31 - 20
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 108 - 88
+    predicted winner:       GSW
+match 21801090: CHI vs UTA
+    Q1 predicted scores:    21 - 27
+    Q2 predicted scores:    21 - 29
+    Q3 predicted scores:    21 - 28
+    Q4 predicted scores:    21 - 28
+    total predicted scores: 84 - 112
+    predicted winner:       UTA
+match 21801100: BOS vs SAS
+    Q1 predicted scores:    24 - 30
+    Q2 predicted scores:    24 - 29
+    Q3 predicted scores:    24 - 30
+    Q4 predicted scores:    23 - 27
+    total predicted scores: 95 - 116
+    predicted winner:       SAS
+match 21801101: GSW vs DET
+    Q1 predicted scores:    31 - 25
+    Q2 predicted scores:    28 - 30
+    Q3 predicted scores:    32 - 24
+    Q4 predicted scores:    26 - 30
+    total predicted scores: 117 - 109
+    predicted winner:       GSW
+match 21801150: GSW vs CHA
+    Q1 predicted scores:    30 - 21
+    Q2 predicted scores:    31 - 21
+    Q3 predicted scores:    32 - 20
+    Q4 predicted scores:    29 - 23
+    total predicted scores: 122 - 85
+    predicted winner:       GSW
+match 21801163: SAC vs HOU
+    Q1 predicted scores:    25 - 31
+    Q2 predicted scores:    24 - 29
+    Q3 predicted scores:    26 - 30
+    Q4 predicted scores:    23 - 28
+    total predicted scores: 98 - 118
+    predicted winner:       HOU
+match 21801170: MIA vs BOS
+    Q1 predicted scores:    25 - 26
+    Q2 predicted scores:    24 - 30
+    Q3 predicted scores:    25 - 30
+    Q4 predicted scores:    26 - 27
+    total predicted scores: 100 - 113
+    predicted winner:       BOS
+match 21801176: LAC vs HOU
+    Q1 predicted scores:    25 - 32
+    Q2 predicted scores:    25 - 31
+    Q3 predicted scores:    25 - 31
+    Q4 predicted scores:    26 - 29
+    total predicted scores: 101 - 123
+    predicted winner:       HOU
+match 21801185: MIN vs MIA
+    Q1 predicted scores:    28 - 26
+    Q2 predicted scores:    25 - 27
+    Q3 predicted scores:    27 - 26
+    Q4 predicted scores:    25 - 27
+    total predicted scores: 105 - 106
+    predicted winner:       MIA
+match 21801189: PHX vs NOP
+    Q1 predicted scores:    30 - 26
+    Q2 predicted scores:    29 - 28
+    Q3 predicted scores:    30 - 27
+    Q4 predicted scores:    29 - 29
+    total predicted scores: 118 - 110
+    predicted winner:       PHX
+match 21801204: NYK vs WAS
+    Q1 predicted scores:    30 - 29
+    Q2 predicted scores:    29 - 27
+    Q3 predicted scores:    29 - 26
+    Q4 predicted scores:    27 - 28
+    total predicted scores: 115 - 110
+    predicted winner:       NYK
+match 21801214: MIN vs TOR
+    Q1 predicted scores:    25 - 29
+    Q2 predicted scores:    25 - 30
+    Q3 predicted scores:    27 - 28
+    Q4 predicted scores:    26 - 28
+    total predicted scores: 103 - 115
+    predicted winner:       TOR
+match 41600101: BOS vs CHI
+    Q1 predicted scores:    24 - 25
+    Q2 predicted scores:    23 - 28
+    Q3 predicted scores:    26 - 26
+    Q4 predicted scores:    23 - 26
+    total predicted scores: 96 - 105
+    predicted winner:       CHI
+match 41600111: CLE vs IND
+    Q1 predicted scores:    27 - 26
+    Q2 predicted scores:    26 - 25
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    25 - 26
+    total predicted scores: 104 - 101
+    predicted winner:       CLE
+match 41600122: TOR vs MIL
+    Q1 predicted scores:    26 - 23
+    Q2 predicted scores:    27 - 25
+    Q3 predicted scores:    26 - 25
+    Q4 predicted scores:    25 - 25
+    total predicted scores: 104 - 98
+    predicted winner:       TOR
+match 41600123: MIL vs TOR
+    Q1 predicted scores:    27 - 19
+    Q2 predicted scores:    26 - 20
+    Q3 predicted scores:    26 - 20
+    Q4 predicted scores:    22 - 24
+    total predicted scores: 101 - 83
+    predicted winner:       MIL
+match 41600125: TOR vs MIL
+    Q1 predicted scores:    30 - 24
+    Q2 predicted scores:    29 - 23
+    Q3 predicted scores:    30 - 24
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 117 - 93
+    predicted winner:       TOR
+match 41600134: ATL vs WAS
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    28 - 23
+    Q3 predicted scores:    25 - 24
+    Q4 predicted scores:    28 - 22
+    total predicted scores: 108 - 94
+    predicted winner:       ATL
+match 41600152: SAS vs MEM
+    Q1 predicted scores:    24 - 20
+    Q2 predicted scores:    25 - 19
+    Q3 predicted scores:    23 - 24
+    Q4 predicted scores:    24 - 21
+    total predicted scores: 96 - 84
+    predicted winner:       SAS
+match 41600161: HOU vs OKC
+    Q1 predicted scores:    30 - 23
+    Q2 predicted scores:    31 - 21
+    Q3 predicted scores:    31 - 20
+    Q4 predicted scores:    30 - 19
+    total predicted scores: 122 - 83
+    predicted winner:       HOU
+match 41600172: LAC vs UTA
+    Q1 predicted scores:    24 - 23
+    Q2 predicted scores:    25 - 19
+    Q3 predicted scores:    25 - 22
+    Q4 predicted scores:    25 - 22
+    total predicted scores: 99 - 86
+    predicted winner:       LAC
+match 41800112: TOR vs ORL
+    Q1 predicted scores:    27 - 19
+    Q2 predicted scores:    28 - 21
+    Q3 predicted scores:    27 - 18
+    Q4 predicted scores:    23 - 20
+    total predicted scores: 105 - 78
+    predicted winner:       TOR
+match 41800113: ORL vs TOR
+    Q1 predicted scores:    23 - 25
+    Q2 predicted scores:    24 - 23
+    Q3 predicted scores:    21 - 24
+    Q4 predicted scores:    23 - 22
+    total predicted scores: 91 - 94
+    predicted winner:       TOR
+match 41800114: ORL vs TOR
+    Q1 predicted scores:    22 - 30
+    Q2 predicted scores:    21 - 28
+    Q3 predicted scores:    22 - 29
+    Q4 predicted scores:    21 - 25
+    total predicted scores: 86 - 112
+    predicted winner:       TOR
+match 41800122: PHI vs BKN
+    Q1 predicted scores:    34 - 24
+    Q2 predicted scores:    31 - 28
+    Q3 predicted scores:    32 - 26
+    Q4 predicted scores:    24 - 34
+    total predicted scores: 121 - 112
+    predicted winner:       PHI
+match 41800134: IND vs BOS
+    Q1 predicted scores:    25 - 24
+    Q2 predicted scores:    25 - 27
+    Q3 predicted scores:    25 - 27
+    Q4 predicted scores:    25 - 28
+    total predicted scores: 100 - 106
+    predicted winner:       BOS
+match 41800142: GSW vs LAC
+    Q1 predicted scores:    33 - 31
+    Q2 predicted scores:    31 - 32
+    Q3 predicted scores:    32 - 38
+    Q4 predicted scores:    28 - 33
+    total predicted scores: 124 - 134
+    predicted winner:       LAC
+match 41800143: LAC vs GSW
+    Q1 predicted scores:    23 - 32
+    Q2 predicted scores:    26 - 30
+    Q3 predicted scores:    24 - 31
+    Q4 predicted scores:    27 - 22
+    total predicted scores: 100 - 115
+    predicted winner:       GSW
+match 41800152: DEN vs SAS
+    Q1 predicted scores:    27 - 25
+    Q2 predicted scores:    27 - 27
+    Q3 predicted scores:    26 - 24
+    Q4 predicted scores:    28 - 26
+    total predicted scores: 108 - 102
+    predicted winner:       DEN
+match 41800153: SAS vs DEN
+    Q1 predicted scores:    31 - 25
+    Q2 predicted scores:    28 - 29
+    Q3 predicted scores:    32 - 24
+    Q4 predicted scores:    24 - 27
+    total predicted scores: 115 - 105
+    predicted winner:       SAS
+match 41800221: GSW vs HOU
+    Q1 predicted scores:    25 - 23
+    Q2 predicted scores:    25 - 20
+    Q3 predicted scores:    24 - 23
+    Q4 predicted scores:    23 - 26
+    total predicted scores: 97 - 92
+    predicted winner:       GSW
